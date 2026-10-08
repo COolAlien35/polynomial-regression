@@ -1,0 +1,10 @@
+problem,degree,segment,rows,mse
+var1,5,Interior,100,2.4863336391172477
+var1,5,At least one boundary,700,4.863906862963647
+var1,5,Largest absolute targets,80,10.074503730523105
+var1,5,Exactly 1 boundaries,239,4.234579891755396
+var1,5,Exactly 2 boundaries,246,5.2205215390818305
+var1,5,Exactly 3 boundaries,145,6.015916277671943
+var1,5,Exactly 4 boundaries,54,3.8577342049168353
+var1,5,Exactly 5 boundaries,15,1.8523564293239876
+var1,5,Exactly 6 boundaries,1,0.011057563082301698

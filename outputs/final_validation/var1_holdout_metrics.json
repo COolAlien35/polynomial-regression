@@ -1,0 +1,13 @@
+{
+  "problem": "var1",
+  "candidate": "average_lasso_sparse",
+  "holdout_rows": 200,
+  "development_train_mse": 0.23839675406136202,
+  "holdout_mse": 0.3184433189877215,
+  "holdout_r2": 0.9676212822688073,
+  "mean_residual": 0.0061750497635280266,
+  "mse_ci_low": 0.26156507771423854,
+  "mse_ci_high": 0.37691403741316754,
+  "r2_ci_low": 0.9570360289894779,
+  "r2_ci_high": 0.9748000736692208
+}

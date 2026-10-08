@@ -1,0 +1,63 @@
+{
+  "current_ridge": {
+    "basis": "monomial",
+    "method": "ridge",
+    "degree": 11,
+    "alpha": 3
+  },
+  "sparse_refit": {
+    "basis": "monomial",
+    "method": "sparse_refit",
+    "degree": 11,
+    "selection_alpha": 0.001,
+    "refit_alpha": 1
+  },
+  "elastic_net": {
+    "basis": "monomial",
+    "method": "elastic_net",
+    "degree": 11,
+    "alpha": 0.001,
+    "l1_ratio": 0.75
+  },
+  "degree9_ridge": {
+    "basis": "monomial",
+    "method": "ridge",
+    "degree": 9,
+    "alpha": 1
+  },
+  "average_ridge_sparse": {
+    "method": "average",
+    "members": [
+      {
+        "basis": "monomial",
+        "method": "ridge",
+        "degree": 11,
+        "alpha": 3
+      },
+      {
+        "basis": "monomial",
+        "method": "sparse_refit",
+        "degree": 11,
+        "selection_alpha": 0.001,
+        "refit_alpha": 1
+      }
+    ]
+  },
+  "average_ridge_degrees": {
+    "method": "average",
+    "members": [
+      {
+        "basis": "monomial",
+        "method": "ridge",
+        "degree": 11,
+        "alpha": 3
+      },
+      {
+        "basis": "monomial",
+        "method": "ridge",
+        "degree": 9,
+        "alpha": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+problem,degree,segment,rows,mse
+var1,1,Interior,100,3.0070891446496995
+var1,1,At least one boundary,700,9.78457991144281
+var1,1,Largest absolute targets,80,38.467127288677055
+var1,1,Exactly 1 boundaries,239,5.426624665373914
+var1,1,Exactly 2 boundaries,246,8.660656572819505
+var1,1,Exactly 3 boundaries,145,13.978264208084482
+var1,1,Exactly 4 boundaries,54,19.200548376163155
+var1,1,Exactly 5 boundaries,15,23.862987661029536
+var1,1,Exactly 6 boundaries,1,0.09838867149917371
+var1,2,Interior,100,1.2290546519366876
+var1,2,At least one boundary,700,2.9853683991220876
+var1,2,Largest absolute targets,80,7.570282809531574
+var1,2,Exactly 1 boundaries,239,1.766356525314932
+var1,2,Exactly 2 boundaries,246,2.412616692362768
+var1,2,Exactly 3 boundaries,145,3.8008811863391427
+var1,2,Exactly 4 boundaries,54,5.786199509809115
+var1,2,Exactly 5 boundaries,15,13.301546762468396
+var1,2,Exactly 6 boundaries,1,10.989216528057637
+var1,3,Interior,100,0.7015775274430812
+var1,3,At least one boundary,700,1.008848208491494
+var1,3,Largest absolute targets,80,1.880577802596496
+var1,3,Exactly 1 boundaries,239,0.838924599867235
+var1,3,Exactly 2 boundaries,246,1.0645015558091178
+var1,3,Exactly 3 boundaries,145,1.0996753083051454
+var1,3,Exactly 4 boundaries,54,1.1175516863424084
+var1,3,Exactly 5 boundaries,15,1.6005418504983038
+var1,3,Exactly 6 boundaries,1,0.014545322522968265
+var1,4,Interior,100,0.5516941732639491
+var1,4,At least one boundary,700,0.9482885903821203
+var1,4,Largest absolute targets,80,1.0366176543906978
+var1,4,Exactly 1 boundaries,239,0.8503514459411622
+var1,4,Exactly 2 boundaries,246,1.055645769049947
+var1,4,Exactly 3 boundaries,145,0.8965545513565293
+var1,4,Exactly 4 boundaries,54,1.0074561554506964
+var1,4,Exactly 5 boundaries,15,1.087909409370151
+var1,4,Exactly 6 boundaries,1,0.15747501967288152
+var2,1,Interior,352,11.200188885077525
+var2,1,At least one boundary,446,46.335917979826164
+var2,1,Largest absolute targets,80,159.11463354374217
+var2,1,Exactly 1 boundaries,321,26.485040398300463
+var2,1,Exactly 2 boundaries,116,85.56948491953094
+var2,1,Exactly 3 boundaries,9,248.6734667202703
+var2,2,Interior,352,9.486385673618667
+var2,2,At least one boundary,446,26.3987626777041
+var2,2,Largest absolute targets,80,78.26877152661507
+var2,2,Exactly 1 boundaries,321,17.140942560882745
+var2,2,Exactly 2 boundaries,116,47.61790065589147
+var2,2,Exactly 3 boundaries,9,83.10323512547288
+var2,3,Interior,352,3.539178649185564
+var2,3,At least one boundary,446,13.037248933793148
+var2,3,Largest absolute targets,80,26.271946703435674
+var2,3,Exactly 1 boundaries,321,9.107691472280933
+var2,3,Exactly 2 boundaries,116,20.717361363667205
+var2,3,Exactly 3 boundaries,9,54.20334929824092
+var2,4,Interior,352,1.5830029666043353
+var2,4,At least one boundary,446,4.242535886587453
+var2,4,Largest absolute targets,80,6.592003207005104
+var2,4,Exactly 1 boundaries,321,3.328980960331406
+var2,4,Exactly 2 boundaries,116,6.679254796043671
+var2,4,Exactly 3 boundaries,9,5.419395645617464

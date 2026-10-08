@@ -1,0 +1,13 @@
+{
+  "problem": "var2",
+  "candidate": "current_ridge",
+  "holdout_rows": 202,
+  "development_train_mse": 0.1600238789206677,
+  "holdout_mse": 0.39822773913893694,
+  "holdout_r2": 0.9933944734595441,
+  "mean_residual": -0.04031754529052269,
+  "mse_ci_low": 0.24893151782180603,
+  "mse_ci_high": 0.6194420244651584,
+  "r2_ci_low": 0.9910658072868817,
+  "r2_ci_high": 0.9950402037622792
+}

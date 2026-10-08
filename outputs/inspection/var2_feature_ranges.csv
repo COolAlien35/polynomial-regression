@@ -1,0 +1,4 @@
+,train_min,train_max,test_min,test_max,test_rows_outside_train_range
+x1,-1.0,1.0,-1.0,1.0,0
+x2,-1.0,1.0,-1.0,1.0,0
+x3,-1.0,1.0,-1.0,1.0,0

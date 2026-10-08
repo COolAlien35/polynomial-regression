@@ -1,0 +1,58 @@
+{
+  "author": "Pulkit Pandey",
+  "roll_number": "BT2024060",
+  "repository": "https://github.com/COolAlien35/polynomial-regression",
+  "python": "3.13.2",
+  "dependencies": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "scikit-learn": "1.9.1",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2",
+    "joblib": "1.6.0",
+    "threadpoolctl": "3.7.0"
+  },
+  "problems": {
+    "var1": {
+      "passed": true,
+      "rows": 1000,
+      "columns": [
+        "y"
+      ],
+      "degree": 5,
+      "allowed_degree": 10,
+      "development_rows": 800,
+      "holdout_rows": 200,
+      "repeated_cv_mse": 0.3332824305422218,
+      "repeated_cv_r2": 0.9667591141165364,
+      "holdout_mse": 0.3184433189877215,
+      "holdout_r2": 0.9676212822688073,
+      "formula_max_error": 1.7763568394002505e-15,
+      "pipeline_max_error": 5.329070518200751e-15,
+      "submission_sha256": "ddd24be6e61439ddb33ee4ad83bbbed936b99a1a0a5954ed128c6447b7debeaa"
+    },
+    "var2": {
+      "passed": true,
+      "rows": 1000,
+      "columns": [
+        "y"
+      ],
+      "degree": 11,
+      "allowed_degree": 20,
+      "development_rows": 798,
+      "holdout_rows": 202,
+      "repeated_cv_mse": 0.2737237156539571,
+      "repeated_cv_r2": 0.9932766129608288,
+      "holdout_mse": 0.39822773913893694,
+      "holdout_r2": 0.9933944734595441,
+      "formula_max_error": 3.552713678800501e-15,
+      "pipeline_max_error": 1.0658141036401503e-14,
+      "submission_sha256": "800543c86e5b0b48100be85905637a9906d77c4789f2e83dc2d7863682ca461b"
+    }
+  },
+  "report": {
+    "path": "submission/BT2024060_Report.pdf",
+    "sha256": "e8419197529d78b921426021b25fdab875f8770780831d8f4b363c0c11a13420",
+    "native_pdf_review": "See docs/DELIVERABLE_AUDIT.md"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "current_lasso": {
+    "basis": "monomial",
+    "method": "lasso",
+    "degree": 5,
+    "alpha": 0.01
+  },
+  "sparse_refit": {
+    "basis": "monomial",
+    "method": "sparse_refit",
+    "degree": 5,
+    "selection_alpha": 0.03,
+    "refit_alpha": 0
+  },
+  "elastic_net": {
+    "basis": "monomial",
+    "method": "elastic_net",
+    "degree": 5,
+    "alpha": 0.01,
+    "l1_ratio": 0.75
+  },
+  "stronger_lasso": {
+    "basis": "monomial",
+    "method": "lasso",
+    "degree": 5,
+    "alpha": 0.015
+  },
+  "boundary_weighted": {
+    "alpha": 0.007,
+    "basis": "monomial",
+    "boundary_weighting": true,
+    "degree": 5,
+    "method": "lasso",
+    "test_boundary_proportions": [
+      0.014,
+      0.088,
+      0.25,
+      0.309,
+      0.212,
+      0.102,
+      0.025
+    ]
+  },
+  "average_lasso_sparse": {
+    "method": "average",
+    "members": [
+      {
+        "basis": "monomial",
+        "method": "lasso",
+        "degree": 5,
+        "alpha": 0.01
+      },
+      {
+        "basis": "monomial",
+        "method": "sparse_refit",
+        "degree": 5,
+        "selection_alpha": 0.03,
+        "refit_alpha": 0
+      }
+    ]
+  }
+}

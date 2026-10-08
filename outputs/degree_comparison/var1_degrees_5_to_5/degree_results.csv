@@ -1,0 +1,2 @@
+problem,degree,polynomial_terms,train_mse,validation_mse,validation_mse_std,validation_r2,pooled_validation_mse,pooled_validation_r2
+var1,5,461,0.07329105894348018,4.566710209982847,1.2135902251582822,0.5397341401370401,4.566710209982847,0.5445259664425759

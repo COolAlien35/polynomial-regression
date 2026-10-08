@@ -1,0 +1,25 @@
+problem,degree,segment,rows,mse
+var2,5,Interior,352,0.6777801271531582
+var2,5,At least one boundary,446,1.6200296123626312
+var2,5,Largest absolute targets,80,3.0828714477398016
+var2,5,Exactly 1 boundaries,321,1.1402451883722005
+var2,5,Exactly 2 boundaries,116,2.7035821114038034
+var2,5,Exactly 3 boundaries,9,4.766552969268428
+var2,6,Interior,352,0.4150106565329668
+var2,6,At least one boundary,446,0.6998926608695943
+var2,6,Largest absolute targets,80,0.8481163382455581
+var2,6,Exactly 1 boundaries,321,0.5598571110730997
+var2,6,Exactly 2 boundaries,116,1.0355608992021703
+var2,6,Exactly 3 boundaries,9,1.3681033095469273
+var2,7,Interior,352,0.284786777931862
+var2,7,At least one boundary,446,0.4202170803679969
+var2,7,Largest absolute targets,80,0.6929531423344842
+var2,7,Exactly 1 boundaries,321,0.32699687018753043
+var2,7,Exactly 2 boundaries,116,0.6874249823877572
+var2,7,Exactly 3 boundaries,9,0.3010582841054985
+var2,8,Interior,352,0.2688800469421413
+var2,8,At least one boundary,446,0.46041465879561605
+var2,8,Largest absolute targets,80,1.0644912697114624
+var2,8,Exactly 1 boundaries,321,0.2987978334272007
+var2,8,Exactly 2 boundaries,116,0.6174961931479961
+var2,8,Exactly 3 boundaries,9,4.200141654171755

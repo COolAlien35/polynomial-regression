@@ -1,0 +1,34 @@
+{
+  "var1": {
+    "candidate": "average_lasso_sparse",
+    "config": {
+      "method": "average",
+      "members": [
+        {
+          "basis": "monomial",
+          "method": "lasso",
+          "degree": 5,
+          "alpha": 0.01
+        },
+        {
+          "basis": "monomial",
+          "method": "sparse_refit",
+          "degree": 5,
+          "selection_alpha": 0.03,
+          "refit_alpha": 0
+        }
+      ]
+    },
+    "training_sha256": "750451f5552cb5457aca58ea2e9d86a48a2b703fa811b778351758130961c022"
+  },
+  "var2": {
+    "candidate": "current_ridge",
+    "config": {
+      "basis": "monomial",
+      "method": "ridge",
+      "degree": 11,
+      "alpha": 3
+    },
+    "training_sha256": "ee9473fd83d5cc16065abceb9515dc14530fd8acfa784b8761bde3ea436e001a"
+  }
+}

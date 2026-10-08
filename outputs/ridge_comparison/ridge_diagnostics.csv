@@ -1,0 +1,1528 @@
+problem,degree,alpha,segment,rows,mse
+var1,3,0.0,Interior,100,0.7015775274430812
+var1,3,0.0,At least one boundary,700,1.008848208491494
+var1,3,0.0,Largest absolute targets,80,1.880577802596496
+var1,3,0.0,Exactly 1 boundaries,239,0.838924599867235
+var1,3,0.0,Exactly 2 boundaries,246,1.0645015558091178
+var1,3,0.0,Exactly 3 boundaries,145,1.0996753083051454
+var1,3,0.0,Exactly 4 boundaries,54,1.1175516863424084
+var1,3,0.0,Exactly 5 boundaries,15,1.6005418504983038
+var1,3,0.0,Exactly 6 boundaries,1,0.0145453225229682
+var1,3,0.001,Interior,100,0.701565884153102
+var1,3,0.001,At least one boundary,700,1.0088472817605922
+var1,3,0.001,Largest absolute targets,80,1.8805969075234616
+var1,3,0.001,Exactly 1 boundaries,239,0.8389190088956828
+var1,3,0.001,Exactly 2 boundaries,246,1.0645037347053838
+var1,3,0.001,Exactly 3 boundaries,145,1.0996755773713316
+var1,3,0.001,Exactly 4 boundaries,54,1.1175501595518325
+var1,3,0.001,Exactly 5 boundaries,15,1.6005548879338327
+var1,3,0.001,Exactly 6 boundaries,1,0.0145447151724301
+var1,3,0.01,Interior,100,0.7014611903254427
+var1,3,0.01,At least one boundary,700,1.0088389785495844
+var1,3,0.01,Largest absolute targets,80,1.8807688374179556
+var1,3,0.01,Exactly 1 boundaries,239,0.8388687316186322
+var1,3,0.01,Exactly 2 boundaries,246,1.064523353909258
+var1,3,0.01,Exactly 3 boundaries,145,1.099678061207361
+var1,3,0.01,Exactly 4 boundaries,54,1.1175365178637309
+var1,3,0.01,Exactly 5 boundaries,15,1.6006721984668568
+var1,3,0.01,Exactly 6 boundaries,1,0.0145392494670146
+var1,3,0.1,Interior,100,0.7004236383548781
+var1,3,0.1,At least one boundary,700,1.008759602389511
+var1,3,0.1,Largest absolute targets,80,1.8824866979269936
+var1,3,0.1,Exactly 1 boundaries,239,0.8383700228831737
+var1,3,0.1,Exactly 2 boundaries,246,1.0647204265119583
+var1,3,0.1,Exactly 3 boundaries,145,1.0997090010041348
+var1,3,0.1,Exactly 4 boundaries,54,1.1174098310494776
+var1,3,0.1,Exactly 5 boundaries,15,1.6018427081269242
+var1,3,0.1,Exactly 6 boundaries,1,0.0144846374618989
+var1,3,1.0,Interior,100,0.6908996716958684
+var1,3,1.0,At least one boundary,700,1.0082927200571803
+var1,3,1.0,Largest absolute targets,80,1.8995160068864827
+var1,3,1.0,Exactly 1 boundaries,239,0.8337523325142324
+var1,3,1.0,Exactly 2 boundaries,246,1.0667586985695603
+var1,3,1.0,Exactly 3 boundaries,145,1.1005738561786458
+var1,3,1.0,Exactly 4 boundaries,54,1.1170138424964735
+var1,3,1.0,Exactly 5 boundaries,15,1.61330377182655
+var1,3,1.0,Exactly 6 boundaries,1,0.0139435029013745
+var1,3,10.0,Interior,100,0.6381697197671683
+var1,3,10.0,At least one boundary,700,1.0190998381683476
+var1,3,10.0,Largest absolute targets,80,2.0579462310924015
+var1,3,10.0,Exactly 1 boundaries,239,0.8071873238828343
+var1,3,10.0,Exactly 2 boundaries,246,1.0877258475444096
+var1,3,10.0,Exactly 3 boundaries,145,1.137777305886697
+var1,3,10.0,Exactly 4 boundaries,54,1.151743249602834
+var1,3,10.0,Exactly 5 boundaries,15,1.7127016342895731
+var1,3,10.0,Exactly 6 boundaries,1,0.0091884674534339
+var1,3,100.0,Interior,100,0.606470434097128
+var1,3,100.0,At least one boundary,700,1.3575492604888522
+var1,3,100.0,Largest absolute targets,80,3.629753266315342
+var1,3,100.0,Exactly 1 boundaries,239,0.9012342257830394
+var1,3,100.0,Exactly 2 boundaries,246,1.3940916528809075
+var1,3,100.0,Exactly 3 boundaries,145,1.8129021527020104
+var1,3,100.0,Exactly 4 boundaries,54,1.7211272540426126
+var1,3,100.0,Exactly 5 boundaries,15,2.408388307026413
+var1,3,100.0,Exactly 6 boundaries,1,0.0054473058580053
+var1,4,0.0,Interior,100,0.5516941732639491
+var1,4,0.0,At least one boundary,700,0.9482885903821204
+var1,4,0.0,Largest absolute targets,80,1.0366176543906978
+var1,4,0.0,Exactly 1 boundaries,239,0.8503514459411622
+var1,4,0.0,Exactly 2 boundaries,246,1.055645769049947
+var1,4,0.0,Exactly 3 boundaries,145,0.8965545513565293
+var1,4,0.0,Exactly 4 boundaries,54,1.0074561554506964
+var1,4,0.0,Exactly 5 boundaries,15,1.087909409370151
+var1,4,0.0,Exactly 6 boundaries,1,0.1574750196728815
+var1,4,0.001,Interior,100,0.5516446080739881
+var1,4,0.001,At least one boundary,700,0.9482074806791954
+var1,4,0.001,Largest absolute targets,80,1.036520910790411
+var1,4,0.001,Exactly 1 boundaries,239,0.8502670700936791
+var1,4,0.001,Exactly 2 boundaries,246,1.0555596846237252
+var1,4,0.001,Exactly 3 boundaries,145,0.896476218103306
+var1,4,0.001,Exactly 4 boundaries,54,1.007383862652745
+var1,4,0.001,Exactly 5 boundaries,15,1.0878967633734575
+var1,4,0.001,Exactly 6 boundaries,1,0.1574926467815889
+var1,4,0.01,Interior,100,0.5512002424746367
+var1,4,0.01,At least one boundary,700,0.9474803611899216
+var1,4,0.01,Largest absolute targets,80,1.0356547799137197
+var1,4,0.01,Exactly 1 boundaries,239,0.8495109812117987
+var1,4,0.01,Exactly 2 boundaries,246,1.054787753402617
+var1,4,0.01,Exactly 3 boundaries,145,0.8957742290168246
+var1,4,0.01,Exactly 4 boundaries,54,1.0067347231732426
+var1,4,0.01,Exactly 5 boundaries,15,1.0877834340834007
+var1,4,0.01,Exactly 6 boundaries,1,0.1576512162358033
+var1,4,0.1,Interior,100,0.5469198451967738
+var1,4,0.1,At least one boundary,700,0.94048186180292
+var1,4,0.1,Largest absolute targets,80,1.0274260760010354
+var1,4,0.1,Exactly 1 boundaries,239,0.8422621673762937
+var1,4,0.1,Exactly 2 boundaries,246,1.0473369934457075
+var1,4,0.1,Exactly 3 boundaries,145,0.8890414846378337
+var1,4,0.1,Exactly 4 boundaries,54,1.000389951528898
+var1,4,0.1,Exactly 5 boundaries,15,1.0866961736413496
+var1,4,0.1,Exactly 6 boundaries,1,0.1592296117992144
+var1,4,1.0,Interior,100,0.5155238733365861
+var1,4,1.0,At least one boundary,700,0.8898998030692938
+var1,4,1.0,Largest absolute targets,80,0.9751596740181312
+var1,4,1.0,Exactly 1 boundaries,239,0.7913575123071601
+var1,4,1.0,Exactly 2 boundaries,246,0.9917968530937292
+var1,4,1.0,Exactly 3 boundaries,145,0.8425101485896616
+var1,4,1.0,Exactly 4 boundaries,54,0.9498029103248596
+var1,4,1.0,Exactly 5 boundaries,15,1.0790466531621454
+var1,4,1.0,Exactly 6 boundaries,1,0.1743623455615121
+var1,4,10.0,Interior,100,0.4360934514852235
+var1,4,10.0,At least one boundary,700,0.7869571717816202
+var1,4,10.0,Largest absolute targets,80,0.9752138131754317
+var1,4,10.0,Exactly 1 boundaries,239,0.6907159410008995
+var1,4,10.0,Exactly 2 boundaries,246,0.8493182489701843
+var1,4,10.0,Exactly 3 boundaries,145,0.7878093284569412
+var1,4,10.0,Exactly 4 boundaries,54,0.8579678450421967
+var1,4,10.0,Exactly 5 boundaries,15,1.0666388416776524
+var1,4,10.0,Exactly 6 boundaries,1,0.2944222175538111
+var1,4,100.0,Interior,100,0.5180559412109779
+var1,4,100.0,At least one boundary,700,0.9503160020819836
+var1,4,100.0,Largest absolute targets,80,1.7235364318392083
+var1,4,100.0,Exactly 1 boundaries,239,0.7746226828350353
+var1,4,100.0,Exactly 2 boundaries,246,0.9569448536421612
+var1,4,100.0,Exactly 3 boundaries,145,1.0920835162603422
+var1,4,100.0,Exactly 4 boundaries,54,1.213541785996904
+var1,4,100.0,Exactly 5 boundaries,15,1.3312546970311636
+var1,4,100.0,Exactly 6 boundaries,1,0.8257595067935015
+var1,5,0.0,Interior,100,2.4863336391172477
+var1,5,0.0,At least one boundary,700,4.863906862963647
+var1,5,0.0,Largest absolute targets,80,10.074503730523103
+var1,5,0.0,Exactly 1 boundaries,239,4.234579891755396
+var1,5,0.0,Exactly 2 boundaries,246,5.2205215390818305
+var1,5,0.0,Exactly 3 boundaries,145,6.015916277671943
+var1,5,0.0,Exactly 4 boundaries,54,3.8577342049168353
+var1,5,0.0,Exactly 5 boundaries,15,1.8523564293239876
+var1,5,0.0,Exactly 6 boundaries,1,0.0110575630823016
+var1,5,0.001,Interior,100,2.4602684280194076
+var1,5,0.001,At least one boundary,700,4.808306184740318
+var1,5,0.001,Largest absolute targets,80,9.935107607624332
+var1,5,0.001,Exactly 1 boundaries,239,4.178246850088746
+var1,5,0.001,Exactly 2 boundaries,246,5.166754878166353
+var1,5,0.001,Exactly 3 boundaries,145,5.947254952439529
+var1,5,0.001,Exactly 4 boundaries,54,3.816747467700511
+var1,5,0.001,Exactly 5 boundaries,15,1.8482804768570829
+var1,5,0.001,Exactly 6 boundaries,1,0.0110936056742397
+var1,5,0.01,Interior,100,2.2588906886916873
+var1,5,0.01,At least one boundary,700,4.3997104160614615
+var1,5,0.01,Largest absolute targets,80,8.923964959119953
+var1,5,0.01,Exactly 1 boundaries,239,3.773448616791964
+var1,5,0.01,Exactly 2 boundaries,246,4.767858157860619
+var1,5,0.01,Exactly 3 boundaries,145,5.435742223184321
+var1,5,0.01,Exactly 4 boundaries,54,3.5118568802248773
+var1,5,0.01,Exactly 5 boundaries,15,1.814389349868096
+var1,5,0.01,Exactly 6 boundaries,1,0.0112308541395202
+var1,5,0.1,Interior,100,1.403591801562946
+var1,5,0.1,At least one boundary,700,2.9038888039819724
+var1,5,0.1,Largest absolute targets,80,5.524790592062398
+var1,5,0.1,Exactly 1 boundaries,239,2.3876701326853453
+var1,5,0.1,Exactly 2 boundaries,246,3.2272457957500995
+var1,5,0.1,Exactly 3 boundaries,145,3.537254436432185
+var1,5,0.1,Exactly 4 boundaries,54,2.439447339778564
+var1,5,0.1,Exactly 5 boundaries,15,1.5683351007958646
+var1,5,0.1,Exactly 6 boundaries,1,0.009459178411576
+var1,5,1.0,Interior,100,0.5735269429132444
+var1,5,1.0,At least one boundary,700,1.2600348052041823
+var1,5,1.0,Largest absolute targets,80,2.058438251484219
+var1,5,1.0,Exactly 1 boundaries,239,0.987751282186324
+var1,5,1.0,Exactly 2 boundaries,246,1.2820056550998733
+var1,5,1.0,Exactly 3 boundaries,145,1.5763992201025443
+var1,5,1.0,Exactly 4 boundaries,54,1.6233732210074103
+var1,5,1.0,Exactly 5 boundaries,15,0.9555891038955684
+var1,5,1.0,Exactly 6 boundaries,1,0.0045386381247525
+var1,5,10.0,Interior,100,0.4002190447066981
+var1,5,10.0,At least one boundary,700,0.5613447002860437
+var1,5,10.0,Largest absolute targets,80,0.7333100111482413
+var1,5,10.0,Exactly 1 boundaries,239,0.4954255261561959
+var1,5,10.0,Exactly 2 boundaries,246,0.5611384872508778
+var1,5,10.0,Exactly 3 boundaries,145,0.600958659190943
+var1,5,10.0,Exactly 4 boundaries,54,0.7601534986179289
+var1,5,10.0,Exactly 5 boundaries,15,0.553124819223324
+var1,5,10.0,Exactly 6 boundaries,1,0.0103547887791159
+var1,5,100.0,Interior,100,0.4749126228547549
+var1,5,100.0,At least one boundary,700,0.6087158123332878
+var1,5,100.0,Largest absolute targets,80,1.0561344230323304
+var1,5,100.0,Exactly 1 boundaries,239,0.6164664015596717
+var1,5,100.0,Exactly 2 boundaries,246,0.6666787249654095
+var1,5,100.0,Exactly 3 boundaries,145,0.5714163543416493
+var1,5,100.0,Exactly 4 boundaries,54,0.4551340596237344
+var1,5,100.0,Exactly 5 boundaries,15,0.4848669954546574
+var1,5,100.0,Exactly 6 boundaries,1,0.057016788008582
+var2,6,0.0,Interior,352,0.4150106565329668
+var2,6,0.0,At least one boundary,446,0.6998926608695943
+var2,6,0.0,Largest absolute targets,80,0.8481163382455581
+var2,6,0.0,Exactly 1 boundaries,321,0.5598571110730997
+var2,6,0.0,Exactly 2 boundaries,116,1.0355608992021703
+var2,6,0.0,Exactly 3 boundaries,9,1.3681033095469273
+var2,6,0.001,Interior,352,0.4148258110560483
+var2,6,0.001,At least one boundary,446,0.6998816171518724
+var2,6,0.001,Largest absolute targets,80,0.8483032261187795
+var2,6,0.001,Exactly 1 boundaries,321,0.55983645086183
+var2,6,0.001,Exactly 2 boundaries,116,1.035635241193853
+var2,6,0.001,Exactly 3 boundaries,9,1.3673347271778618
+var2,6,0.01,Interior,352,0.4132100920487705
+var2,6,0.01,At least one boundary,446,0.6998100617271269
+var2,6,0.01,Largest absolute targets,80,0.8500041474077907
+var2,6,0.01,Exactly 1 boundaries,321,0.5596761694144966
+var2,6,0.01,Exactly 2 boundaries,116,1.0363270827712971
+var2,6,0.01,Exactly 3 boundaries,9,1.3605883940860777
+var2,6,0.1,Interior,352,0.4007226976033852
+var2,6,0.1,At least one boundary,446,0.701291323514115
+var2,6,0.1,Largest absolute targets,80,0.8685286590128474
+var2,6,0.1,Exactly 1 boundaries,321,0.5600527756065736
+var2,6,0.1,Exactly 2 boundaries,116,1.0451567122171828
+var2,6,0.1,Exactly 3 boundaries,9,1.306756744487995
+var2,6,1.0,Interior,352,0.3739814203499072
+var2,6,1.0,At least one boundary,446,0.7741592164186584
+var2,6,1.0,Largest absolute targets,80,1.0738330842136117
+var2,6,1.0,Exactly 1 boundaries,321,0.6117175593964841
+var2,6,1.0,Exactly 2 boundaries,116,1.1911696151796436
+var2,6,1.0,Exactly 3 boundaries,9,1.1931109550679504
+var2,6,10.0,Interior,352,0.4682099216145319
+var2,6,10.0,At least one boundary,446,1.2897960971806208
+var2,6,10.0,Largest absolute targets,80,2.038969611208651
+var2,6,10.0,Exactly 1 boundaries,321,0.970129159204484
+var2,6,10.0,Exactly 2 boundaries,116,2.135582117866517
+var2,6,10.0,Exactly 3 boundaries,9,1.7900081739335003
+var2,6,100.0,Interior,352,1.2067365241075927
+var2,6,100.0,At least one boundary,446,3.4629940970774435
+var2,6,100.0,Largest absolute targets,80,6.174603965165996
+var2,6,100.0,Exactly 1 boundaries,321,2.6591448786463547
+var2,6,100.0,Exactly 2 boundaries,116,5.625555605734802
+var2,6,100.0,Exactly 3 boundaries,9,4.260601220646991
+var2,7,0.0,Interior,352,0.284786777931862
+var2,7,0.0,At least one boundary,446,0.4202170803679969
+var2,7,0.0,Largest absolute targets,80,0.6929531423344842
+var2,7,0.0,Exactly 1 boundaries,321,0.3269968701875304
+var2,7,0.0,Exactly 2 boundaries,116,0.6874249823877572
+var2,7,0.0,Exactly 3 boundaries,9,0.3010582841054985
+var2,7,0.001,Interior,352,0.284546017808337
+var2,7,0.001,At least one boundary,446,0.4197466843958536
+var2,7,0.001,Largest absolute targets,80,0.6916364466722872
+var2,7,0.001,Exactly 1 boundaries,321,0.3267166540045805
+var2,7,0.001,Exactly 2 boundaries,116,0.6865048745477179
+var2,7,0.001,Exactly 3 boundaries,9,0.2996010952827903
+var2,7,0.01,Interior,352,0.2828083586628851
+var2,7,0.01,At least one boundary,446,0.4160450979429924
+var2,7,0.01,Largest absolute targets,80,0.681238288803219
+var2,7,0.01,Exactly 1 boundaries,321,0.3245054317552216
+var2,7,0.01,Exactly 2 boundaries,116,0.6792108981996563
+var2,7,0.01,Exactly 3 boundaries,9,0.289045099776485
+var2,7,0.1,Interior,352,0.2762915213422758
+var2,7,0.1,At least one boundary,446,0.401350521103653
+var2,7,0.1,Largest absolute targets,80,0.6412464083754708
+var2,7,0.1,Exactly 1 boundaries,321,0.3146637254899637
+var2,7,0.1,Exactly 2 boundaries,116,0.6481829283266352
+var2,7,0.1,Exactly 3 boundaries,9,0.3117840937845739
+var2,7,1.0,Interior,352,0.2743219996212458
+var2,7,1.0,At least one boundary,446,0.4585619252758736
+var2,7,1.0,Largest absolute targets,80,0.7477355349831426
+var2,7,1.0,Exactly 1 boundaries,321,0.3506348958458041
+var2,7,1.0,Exactly 2 boundaries,116,0.7426587743481812
+var2,7,1.0,Exactly 3 boundaries,9,0.6462665869052795
+var2,7,10.0,Interior,352,0.3321914461703505
+var2,7,10.0,At least one boundary,446,0.8286883366399929
+var2,7,10.0,Largest absolute targets,80,1.4726204659616404
+var2,7,10.0,Exactly 1 boundaries,321,0.5938504908692498
+var2,7,10.0,Exactly 2 boundaries,116,1.4282217128306722
+var2,7,10.0,Exactly 3 boundaries,9,1.47725243156107
+var2,7,100.0,Interior,352,0.7665314161950915
+var2,7,100.0,At least one boundary,446,2.2517025685713383
+var2,7,100.0,Largest absolute targets,80,4.189060081655915
+var2,7,100.0,Exactly 1 boundaries,321,1.7187571818791627
+var2,7,100.0,Exactly 2 boundaries,116,3.5988815048628844
+var2,7,100.0,Exactly 3 boundaries,9,3.8964484039456697
+var2,8,0.0,Interior,352,0.2688800469421413
+var2,8,0.0,At least one boundary,446,0.460414658795616
+var2,8,0.0,Largest absolute targets,80,1.0644912697114624
+var2,8,0.0,Exactly 1 boundaries,321,0.2987978334272007
+var2,8,0.0,Exactly 2 boundaries,116,0.6174961931479961
+var2,8,0.0,Exactly 3 boundaries,9,4.200141654171755
+var2,8,0.001,Interior,352,0.2670677155603739
+var2,8,0.001,At least one boundary,446,0.4540055376690384
+var2,8,0.001,Largest absolute targets,80,1.0389912079866963
+var2,8,0.001,Exactly 1 boundaries,321,0.2976651737939114
+var2,8,0.001,Exactly 2 boundaries,116,0.6058632627456765
+var2,8,0.001,Exactly 3 boundaries,9,4.072867837116349
+var2,8,0.01,Interior,352,0.2584721951617149
+var2,8,0.01,At least one boundary,446,0.4193240255720188
+var2,8,0.01,Largest absolute targets,80,0.8986575239879304
+var2,8,0.01,Exactly 1 boundaries,321,0.2922137300836426
+var2,8,0.01,Exactly 2 boundaries,116,0.5442589067168486
+var2,8,0.01,Exactly 3 boundaries,9,3.3426527632351855
+var2,8,0.1,Interior,352,0.2518117764536235
+var2,8,0.1,At least one boundary,446,0.3713100952870766
+var2,8,0.1,Largest absolute targets,80,0.7166974764119367
+var2,8,0.1,Exactly 1 boundaries,321,0.2813623694676508
+var2,8,0.1,Exactly 2 boundaries,116,0.4554344907492748
+var2,8,0.1,Exactly 3 boundaries,9,2.4951756635560427
+var2,8,1.0,Interior,352,0.253789330006885
+var2,8,1.0,At least one boundary,446,0.3684835302926046
+var2,8,1.0,Largest absolute targets,80,0.6222913829743548
+var2,8,1.0,Exactly 1 boundaries,321,0.284769771184766
+var2,8,1.0,Exactly 2 boundaries,116,0.4519020984810526
+var2,8,1.0,Exactly 3 boundaries,9,2.279101615154406
+var2,8,10.0,Interior,352,0.2881918471405045
+var2,8,10.0,At least one boundary,446,0.562649467501089
+var2,8,10.0,Largest absolute targets,80,0.8505830191952697
+var2,8,10.0,Exactly 1 boundaries,321,0.4347562580593952
+var2,8,10.0,Exactly 2 boundaries,116,0.793425603243604
+var2,8,10.0,Exactly 3 boundaries,9,2.1497259657957475
+var2,8,100.0,Interior,352,0.7084624984180669
+var2,8,100.0,At least one boundary,446,1.6252783768800103
+var2,8,100.0,Largest absolute targets,80,2.5024856052130806
+var2,8,100.0,Exactly 1 boundaries,321,1.3310688838947218
+var2,8,100.0,Exactly 2 boundaries,116,2.3551152594219467
+var2,8,100.0,Exactly 3 boundaries,9,2.7119638072592327
+var2,9,0.0,Interior,352,0.2785133835006986
+var2,9,0.0,At least one boundary,446,0.4626321764796297
+var2,9,0.0,Largest absolute targets,80,0.6044042596719155
+var2,9,0.0,Exactly 1 boundaries,321,0.3492842774883708
+var2,9,0.0,Exactly 2 boundaries,116,0.7923767547312812
+var2,9,0.0,Exactly 3 boundaries,9,0.2553326763687993
+var2,9,0.001,Interior,352,0.2712671161292009
+var2,9,0.001,At least one boundary,446,0.4601246130277405
+var2,9,0.001,Largest absolute targets,80,0.5965178435148649
+var2,9,0.001,Exactly 1 boundaries,321,0.3429632834575106
+var2,9,0.001,Exactly 2 boundaries,116,0.8042868415138456
+var2,9,0.001,Exactly 3 boundaries,9,0.2030099783228042
+var2,9,0.01,Interior,352,0.2581196921851164
+var2,9,0.01,At least one boundary,446,0.4411206862264737
+var2,9,0.01,Largest absolute targets,80,0.6135146109538234
+var2,9,0.01,Exactly 1 boundaries,321,0.3280055167198271
+var2,9,0.01,Exactly 2 boundaries,116,0.7715527452835385
+var2,9,0.01,Exactly 3 boundaries,9,0.2166596374502566
+var2,9,0.1,Interior,352,0.2501584884590826
+var2,9,0.1,At least one boundary,446,0.3760938101501216
+var2,9,0.1,Largest absolute targets,80,0.5804447339656992
+var2,9,0.1,Exactly 1 boundaries,321,0.2999880029009008
+var2,9,0.1,Exactly 2 boundaries,116,0.5863059774047079
+var2,9,0.1,Exactly 3 boundaries,9,0.3811330018687773
+var2,9,1.0,Interior,352,0.2387018937461004
+var2,9,1.0,At least one boundary,446,0.3243998140349393
+var2,9,1.0,Largest absolute targets,80,0.5060996400428822
+var2,9,1.0,Exactly 1 boundaries,321,0.2683161540297223
+var2,9,1.0,Exactly 2 boundaries,116,0.4580472773128866
+var2,9,1.0,Exactly 3 boundaries,9,0.6021497164163586
+var2,9,10.0,Interior,352,0.2609439717954926
+var2,9,10.0,At least one boundary,446,0.4461466731809852
+var2,9,10.0,Largest absolute targets,80,0.7131365006962322
+var2,9,10.0,Exactly 1 boundaries,321,0.3437167191234591
+var2,9,10.0,Exactly 2 boundaries,116,0.6728916254032453
+var2,9,10.0,Exactly 3 boundaries,9,1.1769912059236214
+var2,9,100.0,Interior,352,0.5629085776562678
+var2,9,100.0,At least one boundary,446,1.2123237030586944
+var2,9,100.0,Largest absolute targets,80,2.1239332184913966
+var2,9,100.0,Exactly 1 boundaries,321,0.9399768825974968
+var2,9,100.0,Exactly 2 boundaries,116,1.7872437918490385
+var2,9,100.0,Exactly 3 boundaries,9,3.5159458217658583
+var2,10,0.0,Interior,352,0.3727441971911787
+var2,10,0.0,At least one boundary,446,1.4346215087605638
+var2,10,0.0,Largest absolute targets,80,3.239961002486492
+var2,10,0.0,Exactly 1 boundaries,321,0.7313537327824784
+var2,10,0.0,Exactly 2 boundaries,116,2.3277673345926515
+var2,10,0.0,Exactly 3 boundaries,9,15.006181541254271
+var2,10,0.001,Interior,352,0.314780060742214
+var2,10,0.001,At least one boundary,446,0.8312418680442558
+var2,10,0.001,Largest absolute targets,80,1.58599697571771
+var2,10,0.001,Exactly 1 boundaries,321,0.5149324131661278
+var2,10,0.001,Exactly 2 boundaries,116,1.305641266501794
+var2,10,0.001,Exactly 3 boundaries,9,5.998464623022555
+var2,10,0.01,Interior,352,0.2636146291209375
+var2,10,0.01,At least one boundary,446,0.5696388939694712
+var2,10,0.01,Largest absolute targets,80,1.1921938868450717
+var2,10,0.01,Exactly 1 boundaries,321,0.3590437357148756
+var2,10,0.01,Exactly 2 boundaries,116,0.8116088325283337
+var2,10,0.01,Exactly 3 boundaries,9,4.962142552513594
+var2,10,0.1,Interior,352,0.2451815694245073
+var2,10,0.1,At least one boundary,446,0.4546557311815423
+var2,10,0.1,Largest absolute targets,80,1.0454513290569114
+var2,10,0.1,Exactly 1 boundaries,321,0.293600216251835
+var2,10,0.1,Exactly 2 boundaries,116,0.5846608696528603
+var2,10,0.1,Exactly 3 boundaries,9,4.523347312266338
+var2,10,1.0,Interior,352,0.2362065154119849
+var2,10,1.0,At least one boundary,446,0.3707921196642035
+var2,10,1.0,Largest absolute targets,80,0.8276874054948247
+var2,10,1.0,Exactly 1 boundaries,321,0.2562621870599502
+var2,10,1.0,Exactly 2 boundaries,116,0.4216841154762066
+var2,10,1.0,Exactly 3 boundaries,9,3.7997517698611967
+var2,10,10.0,Interior,352,0.2534741849610598
+var2,10,10.0,At least one boundary,446,0.4179576776236525
+var2,10,10.0,Largest absolute targets,80,0.7718817684174558
+var2,10,10.0,Exactly 1 boundaries,321,0.2996224249883005
+var2,10,10.0,Exactly 2 boundaries,116,0.4934203675093823
+var2,10,10.0,Exactly 3 boundaries,9,3.6659514630906935
+var2,10,100.0,Interior,352,0.5555261092472233
+var2,10,100.0,At least one boundary,446,1.0374229998054487
+var2,10,100.0,Largest absolute targets,80,1.7457337744069157
+var2,10,100.0,Exactly 1 boundaries,321,0.8146283362645402
+var2,10,100.0,Exactly 2 boundaries,116,1.2592628834342787
+var2,10,100.0,Exactly 3 boundaries,9,6.124496388215153
+var1,1,0.001,Interior,100,3.007087790566355
+var1,1,0.001,At least one boundary,700,9.784579738844526
+var1,1,0.001,Largest absolute targets,80,38.46714067126037
+var1,1,0.001,Exactly 1 boundaries,239,5.426622656911441
+var1,1,0.001,Exactly 2 boundaries,246,8.66065675478326
+var1,1,0.001,Exactly 3 boundaries,145,13.978265397777182
+var1,1,0.001,Exactly 4 boundaries,54,19.20054919084914
+var1,1,0.001,Exactly 5 boundaries,15,23.86299412877202
+var1,1,0.001,Exactly 6 boundaries,1,0.09838959752729091
+var1,1,0.01,Interior,100,3.007075604537934
+var1,1,0.01,At least one boundary,700,9.784578185998495
+var1,1,0.01,Largest absolute targets,80,38.46726111217913
+var1,1,0.01,Exactly 1 boundaries,239,5.42660458158807
+var1,1,0.01,Exactly 2 boundaries,246,8.660658392962088
+var1,1,0.01,Exactly 3 boundaries,145,13.978276105327234
+var1,1,0.01,Exactly 4 boundaries,54,19.20055652324329
+var1,1,0.01,Exactly 5 boundaries,15,23.86305233808156
+var1,1,0.01,Exactly 6 boundaries,1,0.09839793191315073
+var1,1,0.1,Interior,100,3.006953815668317
+var1,1,0.1,At least one boundary,700,9.784562710822648
+var1,1,0.1,Largest absolute targets,80,38.468465290648155
+var1,1,0.1,Exactly 1 boundaries,239,5.426423911367083
+var1,1,0.1,Exactly 2 boundaries,246,8.66067482472198
+var1,1,0.1,Exactly 3 boundaries,145,13.978383212066305
+var1,1,0.1,Exactly 4 boundaries,54,19.200629868979053
+var1,1,0.1,Exactly 5 boundaries,15,23.863634394274257
+var1,1,0.1,Exactly 6 boundaries,1,0.0984812889169264
+var1,1,1.0,Interior,100,3.005743036256744
+var1,1,1.0,At least one boundary,700,9.784413260170453
+var1,1,1.0,Largest absolute targets,80,38.48048405455114
+var1,1,1.0,Exactly 1 boundaries,239,5.424625474808771
+var1,1,1.0,Exactly 2 boundaries,246,8.660844111908476
+var1,1,1.0,Exactly 3 boundaries,145,13.97945738150234
+var1,1,1.0,Exactly 4 boundaries,54,19.20136549301984
+var1,1,1.0,Exactly 5 boundaries,15,23.869451266616537
+var1,1,1.0,Exactly 6 boundaries,1,0.09931617037684487
+var1,1,10.0,Interior,100,2.9943152750300857
+var1,1,10.0,At least one boundary,700,9.783422653378981
+var1,1,10.0,Largest absolute targets,80,38.598419552277754
+var1,1,10.0,Exactly 1 boundaries,239,5.407433461651417
+var1,1,10.0,Exactly 2 boundaries,246,8.663007535059513
+var1,1,10.0,Exactly 3 boundaries,145,13.990488441611882
+var1,1,10.0,Exactly 4 boundaries,54,19.208926167832246
+var1,1,10.0,Exactly 5 boundaries,15,23.927251749761062
+var1,1,10.0,Exactly 6 boundaries,1,0.10779306287836762
+var1,1,100.0,Interior,100,2.926303230714053
+var1,1,100.0,At least one boundary,700,9.805735246392882
+var1,1,100.0,Largest absolute targets,80,39.59315563967044
+var1,1,100.0,Exactly 1 boundaries,239,5.2906037138376645
+var1,1,100.0,Exactly 2 boundaries,246,8.713537332550528
+var1,1,100.0,Exactly 3 boundaries,145,14.115713939205847
+var1,1,100.0,Exactly 4 boundaries,54,19.29645373448546
+var1,1,100.0,Exactly 5 boundaries,15,24.46936999722238
+var1,1,100.0,Exactly 6 boundaries,1,0.20262825498686135
+var1,1,1000.0,Interior,100,2.9418929685781414
+var1,1,1000.0,At least one boundary,700,10.243808688317321
+var1,1,1000.0,Largest absolute targets,80,43.448013139629175
+var1,1,1000.0,Exactly 1 boundaries,239,5.111761643010396
+var1,1,1000.0,Exactly 2 boundaries,246,9.26882630807794
+var1,1,1000.0,Exactly 3 boundaries,145,14.995439758453083
+var1,1,1000.0,Exactly 4 boundaries,54,19.999829663170015
+var1,1,1000.0,Exactly 5 boundaries,15,27.555545210132827
+var1,1,1000.0,Exactly 6 boundaries,1,1.1610324165966874
+var1,2,0.001,Interior,100,1.2290494741564557
+var1,2,0.001,At least one boundary,700,2.985368630379652
+var1,2,0.001,Largest absolute targets,80,7.57030327830005
+var1,2,0.001,Exactly 1 boundaries,239,1.7663532048017767
+var1,2,0.001,Exactly 2 boundaries,246,2.41261629072561
+var1,2,0.001,Exactly 3 boundaries,145,3.800885468098089
+var1,2,0.001,Exactly 4 boundaries,54,5.786204310623938
+var1,2,0.001,Exactly 5 boundaries,15,13.301558503338436
+var1,2,0.001,Exactly 6 boundaries,1,10.989214601639596
+var1,2,0.01,Interior,100,1.2290028780475564
+var1,2,0.01,At least one boundary,700,2.9853707149206827
+var1,2,0.01,Largest absolute targets,80,7.570487501127313
+var1,2,0.01,Exactly 1 boundaries,239,1.7663233242500138
+var1,2,0.01,Exactly 2 boundaries,246,2.4126126794622103
+var1,2,0.01,Exactly 3 boundaries,145,3.8009240064091796
+var1,2,0.01,Exactly 4 boundaries,54,5.786247519681402
+var1,2,0.01,Exactly 5 boundaries,15,13.3016641697553
+var1,2,0.01,Exactly 6 boundaries,1,10.98919726256494
+var1,2,0.1,Interior,100,1.2285373041196395
+var1,2,0.1,At least one boundary,700,2.985391879151427
+var1,2,0.1,Largest absolute targets,80,7.572330116192305
+var1,2,0.1,Exactly 1 boundaries,239,1.7660249210242214
+var1,2,0.1,Exactly 2 boundaries,246,2.4125769101883923
+var1,2,0.1,Exactly 3 boundaries,145,3.8013096348914956
+var1,2,0.1,Exactly 4 boundaries,54,5.786679780796929
+var1,2,0.1,Exactly 5 boundaries,15,13.302720694040529
+var1,2,0.1,Exactly 6 boundaries,1,10.989023741956629
+var1,2,1.0,Interior,100,1.223920037706018
+var1,2,1.0,At least one boundary,700,2.985635154413259
+var1,2,1.0,Largest absolute targets,80,7.59079455636618
+var1,2,1.0,Exactly 1 boundaries,239,1.763080817567355
+var1,2,1.0,Exactly 2 boundaries,246,2.4122532853371705
+var1,2,1.0,Exactly 3 boundaries,145,3.8051902486608045
+var1,2,1.0,Exactly 4 boundaries,54,5.791019310494504
+var1,2,1.0,Exactly 5 boundaries,15,13.313272003883924
+var1,2,1.0,Exactly 6 boundaries,1,10.987275616960492
+var1,2,10.0,Interior,100,1.1813658407115026
+var1,2,10.0,At least one boundary,700,2.990998787390212
+var1,2,10.0,Largest absolute targets,80,7.778903369904458
+var1,2,10.0,Exactly 1 boundaries,239,1.737352390152213
+var1,2,10.0,Exactly 2 boundaries,246,2.4121738400369703
+var1,2,10.0,Exactly 3 boundaries,145,3.846234874750653
+var1,2,10.0,Exactly 4 boundaries,54,5.835979293506463
+var1,2,10.0,Exactly 5 boundaries,15,13.417443969186206
+var1,2,10.0,Exactly 6 boundaries,1,10.968567051688511
+var1,2,100.0,Interior,100,0.9767954997025093
+var1,2,100.0,At least one boundary,700,3.2027497989052063
+var1,2,100.0,Largest absolute targets,80,9.793439046246286
+var1,2,100.0,Exactly 1 boundaries,239,1.6883391103827086
+var1,2,100.0,Exactly 2 boundaries,246,2.5826169773813294
+var1,2,100.0,Exactly 3 boundaries,145,4.367368767091517
+var1,2,100.0,Exactly 4 boundaries,54,6.365685785803722
+var1,2,100.0,Exactly 5 boundaries,15,14.35789620881445
+var1,2,100.0,Exactly 6 boundaries,1,10.704088622482313
+var1,2,1000.0,Interior,100,1.4972365618811432
+var1,2,1000.0,At least one boundary,700,5.689597964763455
+var1,2,1000.0,Largest absolute targets,80,23.18212066787099
+var1,2,1000.0,Exactly 1 boundaries,239,2.7844470050667347
+var1,2,1000.0,Exactly 2 boundaries,246,4.929040194696654
+var1,2,1000.0,Exactly 3 boundaries,145,8.423828356700186
+var1,2,1000.0,Exactly 4 boundaries,54,10.704923517953159
+var1,2,1000.0,Exactly 5 boundaries,15,19.80580274260563
+var1,2,1000.0,Exactly 6 boundaries,1,8.083830398009932
+var1,3,1000.0,Interior,100,1.3503137208049427
+var1,3,1000.0,At least one boundary,700,3.9897219646819932
+var1,3,1000.0,Largest absolute targets,80,15.008674106618141
+var1,3,1000.0,Exactly 1 boundaries,239,2.329030696077369
+var1,3,1000.0,Exactly 2 boundaries,246,3.8665254377872462
+var1,3,1000.0,Exactly 3 boundaries,145,5.831029324140591
+var1,3,1000.0,Exactly 4 boundaries,54,6.259198250346162
+var1,3,1000.0,Exactly 5 boundaries,15,6.7534742217449635
+var1,3,1000.0,Exactly 6 boundaries,1,0.20371037398880693
+var1,4,1000.0,Interior,100,1.0173478665536857
+var1,4,1000.0,At least one boundary,700,2.1800841982316665
+var1,4,1000.0,Largest absolute targets,80,6.399477759899483
+var1,4,1000.0,Exactly 1 boundaries,239,1.5704805658604712
+var1,4,1000.0,Exactly 2 boundaries,246,2.21626881522049
+var1,4,1000.0,Exactly 3 boundaries,145,2.801709578077876
+var1,4,1000.0,Exactly 4 boundaries,54,2.6499994589353424
+var1,4,1000.0,Exactly 5 boundaries,15,3.5799079053990686
+var1,4,1000.0,Exactly 6 boundaries,1,2.46547679248669
+var1,5,1000.0,Interior,100,0.9633193417877993
+var1,5,1000.0,At least one boundary,700,1.6088857408142698
+var1,5,1000.0,Largest absolute targets,80,4.538685052965475
+var1,5,1000.0,Exactly 1 boundaries,239,1.370594415231918
+var1,5,1000.0,Exactly 2 boundaries,246,1.79658469930667
+var1,5,1000.0,Exactly 3 boundaries,145,1.9249591832157715
+var1,5,1000.0,Exactly 4 boundaries,54,1.1317117441537725
+var1,5,1000.0,Exactly 5 boundaries,15,1.0969945938397172
+var1,5,1000.0,Exactly 6 boundaries,1,0.0016826419333241733
+var1,6,0.001,Interior,100,8.262467950153022
+var1,6,0.001,At least one boundary,700,14.894533352788034
+var1,6,0.001,Largest absolute targets,80,27.77641457144788
+var1,6,0.001,Exactly 1 boundaries,239,9.433501358608613
+var1,6,0.001,Exactly 2 boundaries,246,17.215178158660752
+var1,6,0.001,Exactly 3 boundaries,145,16.734207845220606
+var1,6,0.001,Exactly 4 boundaries,54,24.862950232654416
+var1,6,0.001,Exactly 5 boundaries,15,11.148145771131887
+var1,6,0.001,Exactly 6 boundaries,1,0.35105852631439977
+var1,6,0.01,Interior,100,5.5869027506382745
+var1,6,0.01,At least one boundary,700,11.14339290050185
+var1,6,0.01,Largest absolute targets,80,21.22770149022106
+var1,6,0.01,Exactly 1 boundaries,239,7.283326922828528
+var1,6,0.01,Exactly 2 boundaries,246,13.033415737403276
+var1,6,0.01,Exactly 3 boundaries,145,12.506229529105095
+var1,6,0.01,Exactly 4 boundaries,54,16.88748813584921
+var1,6,0.01,Exactly 5 boundaries,15,8.528727696066223
+var1,6,0.01,Exactly 6 boundaries,1,0.18106789698211817
+var1,6,0.1,Interior,100,1.987716231160535
+var1,6,0.1,At least one boundary,700,4.752438627732686
+var1,6,0.1,Largest absolute targets,80,7.411345823984033
+var1,6,0.1,Exactly 1 boundaries,239,3.2985380917146796
+var1,6,0.1,Exactly 2 boundaries,246,5.774440489744073
+var1,6,0.1,Exactly 3 boundaries,145,5.787405386922092
+var1,6,0.1,Exactly 4 boundaries,54,4.270179180107429
+var1,6,0.1,Exactly 5 boundaries,15,3.2047602380816254
+var1,6,0.1,Exactly 6 boundaries,1,0.009214615301080425
+var1,6,1.0,Interior,100,0.7500094768788016
+var1,6,1.0,At least one boundary,700,1.6890431523886729
+var1,6,1.0,Largest absolute targets,80,2.2413219431955005
+var1,6,1.0,Exactly 1 boundaries,239,1.1742090710090904
+var1,6,1.0,Exactly 2 boundaries,246,1.8426083691426332
+var1,6,1.0,Exactly 3 boundaries,145,2.2928693656444534
+var1,6,1.0,Exactly 4 boundaries,54,1.7872052814174717
+var1,6,1.0,Exactly 5 boundaries,15,1.2952712664299724
+var1,6,1.0,Exactly 6 boundaries,1,0.008367680371855922
+var1,6,10.0,Interior,100,0.47458810392492273
+var1,6,10.0,At least one boundary,700,0.7437746725180675
+var1,6,10.0,Largest absolute targets,80,1.0958102205445688
+var1,6,10.0,Exactly 1 boundaries,239,0.5628669894801036
+var1,6,10.0,Exactly 2 boundaries,246,0.7185571296062675
+var1,6,10.0,Exactly 3 boundaries,145,0.7845738697009724
+var1,6,10.0,Exactly 4 boundaries,54,1.5700453945490143
+var1,6,10.0,Exactly 5 boundaries,15,0.7165516901267251
+var1,6,10.0,Exactly 6 boundaries,1,0.058068629572042584
+var1,6,100.0,Interior,100,0.5503943841072133
+var1,6,100.0,At least one boundary,700,0.6702243204976284
+var1,6,100.0,Largest absolute targets,80,1.1334106807168969
+var1,6,100.0,Exactly 1 boundaries,239,0.6653954402749456
+var1,6,100.0,Exactly 2 boundaries,246,0.652597720131613
+var1,6,100.0,Exactly 3 boundaries,145,0.6543376262719053
+var1,6,100.0,Exactly 4 boundaries,54,0.8513860178489279
+var1,6,100.0,Exactly 5 boundaries,15,0.5799015120259683
+var1,6,100.0,Exactly 6 boundaries,1,0.03615151659322119
+var1,6,1000.0,Interior,100,1.0004957490498576
+var1,6,1000.0,At least one boundary,700,1.3077453258572118
+var1,6,1000.0,Largest absolute targets,80,3.1655125831274122
+var1,6,1000.0,Exactly 1 boundaries,239,1.2708170485040002
+var1,6,1000.0,Exactly 2 boundaries,246,1.3833373498466015
+var1,6,1000.0,Exactly 3 boundaries,145,1.3800448961033842
+var1,6,1000.0,Exactly 4 boundaries,54,1.0395130498724903
+var1,6,1000.0,Exactly 5 boundaries,15,1.0056779880489473
+var1,6,1000.0,Exactly 6 boundaries,1,0.07008099648894367
+var1,7,0.001,Interior,100,1.0943253140418714
+var1,7,0.001,At least one boundary,700,5.190723999403133
+var1,7,0.001,Largest absolute targets,80,7.3389122773167035
+var1,7,0.001,Exactly 1 boundaries,239,2.578288007964143
+var1,7,0.001,Exactly 2 boundaries,246,5.115713709504157
+var1,7,0.001,Exactly 3 boundaries,145,8.44502236472363
+var1,7,0.001,Exactly 4 boundaries,54,8.605180871818712
+var1,7,0.001,Exactly 5 boundaries,15,4.631892447764045
+var1,7,0.001,Exactly 6 boundaries,1,0.14399646114193487
+var1,7,0.01,Interior,100,1.0742571646664536
+var1,7,0.01,At least one boundary,700,5.054893291414075
+var1,7,0.01,Largest absolute targets,80,7.113428727941114
+var1,7,0.01,Exactly 1 boundaries,239,2.516235582175689
+var1,7,0.01,Exactly 2 boundaries,246,4.97836198227213
+var1,7,0.01,Exactly 3 boundaries,145,8.219268808664674
+var1,7,0.01,Exactly 4 boundaries,54,8.386907219011995
+var1,7,0.01,Exactly 5 boundaries,15,4.502786960300351
+var1,7,0.01,Exactly 6 boundaries,1,0.13918072338858156
+var1,7,0.1,Interior,100,0.9515681261710364
+var1,7,0.1,At least one boundary,700,4.183574757132788
+var1,7,0.1,Largest absolute targets,80,5.694670568944307
+var1,7,0.1,Exactly 1 boundaries,239,2.107449802640199
+var1,7,0.1,Exactly 2 boundaries,246,4.0780769587604855
+var1,7,0.1,Exactly 3 boundaries,145,6.86458175422392
+var1,7,0.1,Exactly 4 boundaries,54,6.887478691769955
+var1,7,0.1,Exactly 5 boundaries,15,3.6145636157860612
+var1,7,0.1,Exactly 6 boundaries,1,0.10823735202783528
+var1,7,1.0,Interior,100,0.7121470113600047
+var1,7,1.0,At least one boundary,700,2.0953569231247697
+var1,7,1.0,Largest absolute targets,80,2.738232130646844
+var1,7,1.0,Exactly 1 boundaries,239,1.1247044616034991
+var1,7,1.0,Exactly 2 boundaries,246,1.896459209336721
+var1,7,1.0,Exactly 3 boundaries,145,3.549287308184783
+var1,7,1.0,Exactly 4 boundaries,54,3.53421199778712
+var1,7,1.0,Exactly 5 boundaries,15,1.724247899933305
+var1,7,1.0,Exactly 6 boundaries,1,0.058688300971630525
+var1,7,10.0,Interior,100,0.5262454161066856
+var1,7,10.0,At least one boundary,700,0.8826592086462617
+var1,7,10.0,Largest absolute targets,80,1.2900997181765814
+var1,7,10.0,Exactly 1 boundaries,239,0.561248152815028
+var1,7,10.0,Exactly 2 boundaries,246,0.7746616189336695
+var1,7,10.0,Exactly 3 boundaries,145,1.1860243142910682
+var1,7,10.0,Exactly 4 boundaries,54,2.0057538375253596
+var1,7,10.0,Exactly 5 boundaries,15,0.8573182003159818
+var1,7,10.0,Exactly 6 boundaries,1,0.012373468594677355
+var1,7,100.0,Interior,100,0.5793912280756462
+var1,7,100.0,At least one boundary,700,0.6506933727371955
+var1,7,100.0,Largest absolute targets,80,1.1668161921818678
+var1,7,100.0,Exactly 1 boundaries,239,0.6055509357523565
+var1,7,100.0,Exactly 2 boundaries,246,0.6282351313578558
+var1,7,100.0,Exactly 3 boundaries,145,0.6168666934554861
+var1,7,100.0,Exactly 4 boundaries,54,0.9865279216012309
+var1,7,100.0,Exactly 5 boundaries,15,0.899390769743163
+var1,7,100.0,Exactly 6 boundaries,1,0.0038050935317483015
+var1,7,1000.0,Interior,100,1.0016341339440888
+var1,7,1000.0,At least one boundary,700,1.124888771182425
+var1,7,1000.0,Largest absolute targets,80,2.6710432553610177
+var1,7,1000.0,Exactly 1 boundaries,239,1.2048243297018675
+var1,7,1000.0,Exactly 2 boundaries,246,1.208903408731077
+var1,7,1000.0,Exactly 3 boundaries,145,1.0256378360132188
+var1,7,1000.0,Exactly 4 boundaries,54,0.6301873509471141
+var1,7,1000.0,Exactly 5 boundaries,15,1.2884486655944523
+var1,7,1000.0,Exactly 6 boundaries,1,0.004553324128522138
+var1,8,0.001,Interior,100,1.212232213564151
+var1,8,0.001,At least one boundary,700,4.3256028852290065
+var1,8,0.001,Largest absolute targets,80,5.994386718962458
+var1,8,0.001,Exactly 1 boundaries,239,2.3293750425380955
+var1,8,0.001,Exactly 2 boundaries,246,4.154499139605771
+var1,8,0.001,Exactly 3 boundaries,145,7.542051851444683
+var1,8,0.001,Exactly 4 boundaries,54,4.040336665953365
+var1,8,0.001,Exactly 5 boundaries,15,9.147741173351474
+var1,8,0.001,Exactly 6 boundaries,1,0.20278012944686133
+var1,8,0.01,Interior,100,1.2007424209268978
+var1,8,0.01,At least one boundary,700,4.2863319080966455
+var1,8,0.01,Largest absolute targets,80,5.940047977857309
+var1,8,0.01,Exactly 1 boundaries,239,2.307712352217671
+var1,8,0.01,Exactly 2 boundaries,246,4.115611106441906
+var1,8,0.01,Exactly 3 boundaries,145,7.476206290693528
+var1,8,0.01,Exactly 4 boundaries,54,4.006355816041039
+var1,8,0.01,Exactly 5 boundaries,15,9.056859944055246
+var1,8,0.01,Exactly 6 boundaries,1,0.2027259253129177
+var1,8,0.1,Interior,100,1.1085687955302326
+var1,8,0.1,At least one boundary,700,3.9562895382579244
+var1,8,0.1,Largest absolute targets,80,5.48902554488622
+var1,8,0.1,Exactly 1 boundaries,239,2.1227227893432605
+var1,8,0.1,Exactly 2 boundaries,246,3.7811884102014957
+var1,8,0.1,Exactly 3 boundaries,145,6.931244691589151
+var1,8,0.1,Exactly 4 boundaries,54,3.7461735196003967
+var1,8,0.1,Exactly 5 boundaries,15,8.291670678303547
+var1,8,0.1,Exactly 6 boundaries,1,0.20067070453818464
+var1,8,1.0,Interior,100,0.8283678298157517
+var1,8,1.0,At least one boundary,700,2.6377088329598446
+var1,8,1.0,Largest absolute targets,80,3.8025846067928426
+var1,8,1.0,Exactly 1 boundaries,239,1.4009723715395819
+var1,8,1.0,Exactly 2 boundaries,246,2.3765183836897816
+var1,8,1.0,Exactly 3 boundaries,145,4.683466056480159
+var1,8,1.0,Exactly 4 boundaries,54,3.106558102395414
+var1,8,1.0,Exactly 5 boundaries,15,5.328786862480287
+var1,8,1.0,Exactly 6 boundaries,1,0.15174523006548613
+var1,8,10.0,Interior,100,0.6170756880643146
+var1,8,10.0,At least one boundary,700,1.249466420289806
+var1,8,10.0,Largest absolute targets,80,2.223553265149095
+var1,8,10.0,Exactly 1 boundaries,239,0.6993567127346908
+var1,8,10.0,Exactly 2 boundaries,246,1.019639040748908
+var1,8,10.0,Exactly 3 boundaries,145,1.7929172718447772
+var1,8,10.0,Exactly 4 boundaries,54,2.9275461320684255
+var1,8,10.0,Exactly 5 boundaries,15,2.5720513924258928
+var1,8,10.0,Exactly 6 boundaries,1,0.007769399465664859
+var1,8,100.0,Interior,100,0.6514849447110217
+var1,8,100.0,At least one boundary,700,0.7956710180494208
+var1,8,100.0,Largest absolute targets,80,1.6427096074963388
+var1,8,100.0,Exactly 1 boundaries,239,0.6453787681523361
+var1,8,100.0,Exactly 2 boundaries,246,0.6791140219510113
+var1,8,100.0,Exactly 3 boundaries,145,0.8336185502463399
+var1,8,100.0,Exactly 4 boundaries,54,1.8049999216216055
+var1,8,100.0,Exactly 5 boundaries,15,1.1485532270864662
+var1,8,100.0,Exactly 6 boundaries,1,0.08915368665448464
+var1,8,1000.0,Interior,100,1.074613762905339
+var1,8,1000.0,At least one boundary,700,1.1134369329220417
+var1,8,1000.0,Largest absolute targets,80,2.486834645757915
+var1,8,1000.0,Exactly 1 boundaries,239,1.2093417578306769
+var1,8,1000.0,Exactly 2 boundaries,246,1.0639218098820564
+var1,8,1000.0,Exactly 3 boundaries,145,0.9808508820793812
+var1,8,1000.0,Exactly 4 boundaries,54,1.22764069834028
+var1,8,1000.0,Exactly 5 boundaries,15,1.3322191152592289
+var1,8,1000.0,Exactly 6 boundaries,1,0.1491453521377629
+var1,9,0.001,Interior,100,0.9574539426151687
+var1,9,0.001,At least one boundary,700,4.093894875673829
+var1,9,0.001,Largest absolute targets,80,5.426772068230446
+var1,9,0.001,Exactly 1 boundaries,239,1.9076696309893273
+var1,9,0.001,Exactly 2 boundaries,246,3.5817020639738604
+var1,9,0.001,Exactly 3 boundaries,145,7.723388769572663
+var1,9,0.001,Exactly 4 boundaries,54,5.734350367999492
+var1,9,0.001,Exactly 5 boundaries,15,6.607923329294462
+var1,9,0.001,Exactly 6 boundaries,1,0.029522028235450217
+var1,9,0.01,Interior,100,0.9533545083446
+var1,9,0.01,At least one boundary,700,4.069310285767557
+var1,9,0.01,Largest absolute targets,80,5.395524019966656
+var1,9,0.01,Exactly 1 boundaries,239,1.8950308937343572
+var1,9,0.01,Exactly 2 boundaries,246,3.5604024678862496
+var1,9,0.01,Exactly 3 boundaries,145,7.674759172537258
+var1,9,0.01,Exactly 4 boundaries,54,5.711599885134007
+var1,9,0.01,Exactly 5 boundaries,15,6.563269463619857
+var1,9,0.01,Exactly 6 boundaries,1,0.030293565324444063
+var1,9,0.1,Interior,100,0.9188780053026838
+var1,9,0.1,At least one boundary,700,3.851436726762611
+var1,9,0.1,Largest absolute targets,80,5.123718172898815
+var1,9,0.1,Exactly 1 boundaries,239,1.7824949637279532
+var1,9,0.1,Exactly 2 boundaries,246,3.368935098800023
+var1,9,0.1,Exactly 3 boundaries,145,7.2473203367696195
+var1,9,0.1,Exactly 4 boundaries,54,5.514502555371241
+var1,9,0.1,Exactly 5 boundaries,15,6.169929623116074
+var1,9,0.1,Exactly 6 boundaries,1,0.03784692965835834
+var1,9,1.0,Interior,100,0.7968295121340002
+var1,9,1.0,At least one boundary,700,2.8215373418172915
+var1,9,1.0,Largest absolute targets,80,3.9215399923784333
+var1,9,1.0,Exactly 1 boundaries,239,1.2719478426972524
+var1,9,1.0,Exactly 2 boundaries,246,2.4015528581578613
+var1,9,1.0,Exactly 3 boundaries,145,5.262820045445633
+var1,9,1.0,Exactly 4 boundaries,54,4.6618435763769135
+var1,9,1.0,Exactly 5 boundaries,15,4.357084078433032
+var1,9,1.0,Exactly 6 boundaries,1,0.09388087016114585
+var1,9,10.0,Interior,100,0.6768548510543962
+var1,9,10.0,At least one boundary,700,1.4807104998182496
+var1,9,10.0,Largest absolute targets,80,2.4544614439170838
+var1,9,10.0,Exactly 1 boundaries,239,0.7046718356912164
+var1,9,10.0,Exactly 2 boundaries,246,1.1343099759340887
+var1,9,10.0,Exactly 3 boundaries,145,2.438973184258553
+var1,9,10.0,Exactly 4 boundaries,54,3.750719167909301
+var1,9,10.0,Exactly 5 boundaries,15,2.1790770385848504
+var1,9,10.0,Exactly 6 boundaries,1,0.16442469942296845
+var1,9,100.0,Interior,100,0.7062612122602048
+var1,9,100.0,At least one boundary,700,0.9230692235378342
+var1,9,100.0,Largest absolute targets,80,2.0204807857208635
+var1,9,100.0,Exactly 1 boundaries,239,0.6311644702295188
+var1,9,100.0,Exactly 2 boundaries,246,0.740798422481166
+var1,9,100.0,Exactly 3 boundaries,145,1.08714351828537
+var1,9,100.0,Exactly 4 boundaries,54,2.408603115856032
+var1,9,100.0,Exactly 5 boundaries,15,1.6890133539521883
+var1,9,100.0,Exactly 6 boundaries,1,0.02815744437490829
+var1,9,1000.0,Interior,100,1.1042583911736603
+var1,9,1000.0,At least one boundary,700,1.0989652988307108
+var1,9,1000.0,Largest absolute targets,80,2.5144901898957874
+var1,9,1000.0,Exactly 1 boundaries,239,1.1877292747795747
+var1,9,1000.0,Exactly 2 boundaries,246,1.0357186090418953
+var1,9,1000.0,Exactly 3 boundaries,145,0.8709002428183351
+var1,9,1000.0,Exactly 4 boundaries,54,1.3558122425945622
+var1,9,1000.0,Exactly 5 boundaries,15,2.074742424336616
+var1,9,1000.0,Exactly 6 boundaries,1,0.006102011058842592
+var1,10,0.001,Interior,100,1.034888823279632
+var1,10,0.001,At least one boundary,700,4.687226515034837
+var1,10,0.001,Largest absolute targets,80,6.831189161704705
+var1,10,0.001,Exactly 1 boundaries,239,2.0015745472764284
+var1,10,0.001,Exactly 2 boundaries,246,3.8944406080206257
+var1,10,0.001,Exactly 3 boundaries,145,9.018978910294829
+var1,10,0.001,Exactly 4 boundaries,54,6.293262475850997
+var1,10,0.001,Exactly 5 boundaries,15,13.127145230925825
+var1,10,0.001,Exactly 6 boundaries,1,0.15455999965422929
+var1,10,0.01,Interior,100,1.0306125933965802
+var1,10,0.01,At least one boundary,700,4.665245103050635
+var1,10,0.01,Largest absolute targets,80,6.801952524744868
+var1,10,0.01,Exactly 1 boundaries,239,1.9902905340960448
+var1,10,0.01,Exactly 2 boundaries,246,3.8754970572071064
+var1,10,0.01,Exactly 3 boundaries,145,8.978123191563043
+var1,10,0.01,Exactly 4 boundaries,54,6.268282799451926
+var1,10,0.01,Exactly 5 boundaries,15,13.076556986321505
+var1,10,0.01,Exactly 6 boundaries,1,0.15636967167440488
+var1,10,0.1,Interior,100,0.9938987513965445
+var1,10,0.1,At least one boundary,700,4.467527581926617
+var1,10,0.1,Largest absolute targets,80,6.545600599461926
+var1,10,0.1,Exactly 1 boundaries,239,1.8887952479652437
+var1,10,0.1,Exactly 2 boundaries,246,3.7034643318961904
+var1,10,0.1,Exactly 3 boundaries,145,8.6071045686374
+var1,10,0.1,Exactly 4 boundaries,54,6.061309100493561
+var1,10,0.1,Exactly 5 boundaries,15,12.61871521180992
+var1,10,0.1,Exactly 6 boundaries,1,0.17343538225152783
+var1,10,1.0,Interior,100,0.856720040756311
+var1,10,1.0,At least one boundary,700,3.4704567177108663
+var1,10,1.0,Largest absolute targets,80,5.413254654356576
+var1,10,1.0,Exactly 1 boundaries,239,1.4073921281497295
+var1,10,1.0,Exactly 2 boundaries,246,2.7995041773517397
+var1,10,1.0,Exactly 3 boundaries,145,6.6077119476902295
+var1,10,1.0,Exactly 4 boundaries,54,5.416811912004237
+var1,10,1.0,Exactly 5 boundaries,15,10.224987459730249
+var1,10,1.0,Exactly 6 boundaries,1,0.27406858202745094
+var1,10,10.0,Interior,100,0.7414377590969632
+var1,10,10.0,At least one boundary,700,1.994708499255646
+var1,10,10.0,Largest absolute targets,80,3.926749329457929
+var1,10,10.0,Exactly 1 boundaries,239,0.820483196408595
+var1,10,10.0,Exactly 2 boundaries,246,1.4449507067099228
+var1,10,10.0,Exactly 3 boundaries,145,3.2113959963672807
+var1,10,10.0,Exactly 4 boundaries,54,5.223657674440979
+var1,10,10.0,Exactly 5 boundaries,15,6.448159149066455
+var1,10,10.0,Exactly 6 boundaries,1,0.29027055759163206
+var1,10,100.0,Interior,100,0.7779832276449519
+var1,10,100.0,At least one boundary,700,1.172288821010592
+var1,10,100.0,Largest absolute targets,80,2.8749333005381787
+var1,10,100.0,Exactly 1 boundaries,239,0.6647407483448663
+var1,10,100.0,Exactly 2 boundaries,246,0.8358475442465938
+var1,10,100.0,Exactly 3 boundaries,145,1.4116978582522972
+var1,10,100.0,Exactly 4 boundaries,54,3.7408201982034455
+var1,10,100.0,Exactly 5 boundaries,15,3.2938172064092797
+var1,10,100.0,Exactly 6 boundaries,1,0.0029017226208538946
+var1,10,1000.0,Interior,100,1.1669541698399701
+var1,10,1000.0,At least one boundary,700,1.1730723557248757
+var1,10,1000.0,Largest absolute targets,80,2.7414640021579433
+var1,10,1000.0,Exactly 1 boundaries,239,1.2028272674171068
+var1,10,1000.0,Exactly 2 boundaries,246,0.9816874757581808
+var1,10,1000.0,Exactly 3 boundaries,145,1.0076918797772507
+var1,10,1000.0,Exactly 4 boundaries,54,2.1342302497580734
+var1,10,1000.0,Exactly 5 boundaries,15,2.0429398198085527
+var1,10,1000.0,Exactly 6 boundaries,1,0.171959706446238
+var2,1,0.001,Interior,352,11.20017040246795
+var2,1,0.001,At least one boundary,446,46.335930467374766
+var2,1,0.001,Largest absolute targets,80,159.11475722089517
+var2,1,0.001,Exactly 1 boundaries,321,26.485042793660334
+var2,1,0.001,Exactly 2 boundaries,116,85.5695280643787
+var2,1,0.001,Exactly 3 boundaries,9,248.67344402402796
+var2,1,0.01,Interior,352,11.200004063063595
+var2,1,0.01,At least one boundary,446,46.336042856573194
+var2,1,0.01,Largest absolute targets,80,159.11587030283138
+var2,1,0.01,Exactly 1 boundaries,321,26.485064354287445
+var2,1,0.01,Exactly 2 boundaries,116,85.56991636562418
+var2,1,0.01,Exactly 3 boundaries,9,248.6732397658858
+var2,1,0.1,Interior,352,11.198341073033774
+var2,1,0.1,At least one boundary,446,46.33716687332646
+var2,1,0.1,Largest absolute targets,80,159.1269998906655
+var2,1,0.1,Exactly 1 boundaries,321,26.485280196912825
+var2,1,0.1,Exactly 2 boundaries,116,85.57379914201009
+var2,1,0.1,Exactly 3 boundaries,9,248.6711979801569
+var2,1,1.0,Interior,352,11.181751488253632
+var2,1,1.0,At least one boundary,446,46.34841945199288
+var2,1,1.0,Largest absolute targets,80,159.23817273262875
+var2,1,1.0,Exactly 1 boundaries,321,26.48746217984914
+var2,1,1.0,Exactly 2 boundaries,116,85.6126032791134
+var2,1,1.0,Exactly 3 boundaries,9,248.650859497788
+var2,1,10.0,Interior,352,11.01980300870692
+var2,1,10.0,At least one boundary,446,46.46212230523696
+var2,1,10.0,Largest absolute targets,80,160.33771328511926
+var2,1,10.0,Exactly 1 boundaries,321,26.511560779978065
+var2,1,10.0,Exactly 2 boundaries,116,85.99826329052792
+var2,1,10.0,Exactly 3 boundaries,9,248.45522178460988
+var2,1,100.0,Interior,352,9.724890994040708
+var2,1,100.0,At least one boundary,446,47.66679169012561
+var2,1,100.0,Largest absolute targets,80,170.22309411021618
+var2,1,100.0,Exactly 1 boundaries,321,26.918744214484967
+var2,1,100.0,Exactly 2 boundaries,116,89.60709354046897
+var2,1,100.0,Exactly 3 boundaries,9,247.11659447243906
+var2,1,1000.0,Interior,352,6.494300210283376
+var2,1,1000.0,At least one boundary,446,56.327185774951865
+var2,1,1000.0,Largest absolute targets,80,215.81042936431095
+var2,1,1000.0,Exactly 1 boundaries,321,32.03742480267855
+var2,1,1000.0,Exactly 2 boundaries,116,108.64743866449011
+var2,1,1000.0,Exactly 3 boundaries,9,248.31206765420745
+var2,2,0.001,Interior,352,9.486360917592679
+var2,2,0.001,At least one boundary,446,26.398780722614127
+var2,2,0.001,Largest absolute targets,80,78.26891682177688
+var2,2,0.001,Exactly 1 boundaries,321,17.140941945847793
+var2,2,0.001,Exactly 2 boundaries,116,47.61795581371559
+var2,2,0.001,Exactly 3 boundaries,9,83.10344036419455
+var2,2,0.01,Interior,352,9.48613811984779
+var2,2,0.01,At least one boundary,446,26.398943131102943
+var2,2,0.01,Largest absolute targets,80,78.27022447865888
+var2,2,0.01,Exactly 1 boundaries,321,17.140936415927435
+var2,2,0.01,Exactly 2 boundaries,116,47.61845223698769
+var2,2,0.01,Exactly 3 boundaries,9,83.1052874965147
+var2,2,0.1,Interior,352,9.483910784662738
+var2,2,0.1,At least one boundary,446,26.40056764136589
+var2,2,0.1,Largest absolute targets,80,78.28330108922542
+var2,2,0.1,Exactly 1 boundaries,321,17.140881650580816
+var2,2,0.1,Exactly 2 boundaries,116,47.6234167521227
+var2,2,0.1,Exactly 3 boundaries,9,83.12375721850123
+var2,2,1.0,Interior,352,9.461701505543612
+var2,2,1.0,At least one boundary,446,26.416855099747195
+var2,2,1.0,Largest absolute targets,80,78.41407100602369
+var2,2,1.0,Exactly 1 boundaries,321,17.140387210732268
+var2,2,1.0,Exactly 2 boundaries,116,47.67308992302301
+var2,2,1.0,Exactly 3 boundaries,9,83.30829430794721
+var2,2,10.0,Interior,352,9.245865677820383
+var2,2,10.0,At least one boundary,446,26.583788350776327
+var2,2,10.0,Largest absolute targets,80,79.72179963770368
+var2,2,10.0,Exactly 1 boundaries,321,17.140596296108885
+var2,2,10.0,Exactly 2 boundaries,116,48.17240824786627
+var2,2,10.0,Exactly 3 boundaries,9,85.13764851586684
+var2,2,100.0,Interior,352,7.590388352574322
+var2,2,100.0,At least one boundary,446,28.52095910930596
+var2,2,100.0,Largest absolute targets,80,92.54437512501787
+var2,2,100.0,Exactly 1 boundaries,321,17.524320334847175
+var2,2,100.0,Exactly 2 boundaries,116,53.26092652021327
+var2,2,100.0,Exactly 3 boundaries,9,101.86371765775274
+var2,2,1000.0,Interior,352,4.565905526079871
+var2,2,1000.0,At least one boundary,446,44.63050078398925
+var2,2,1000.0,Largest absolute targets,80,168.67043328563855
+var2,2,1000.0,Exactly 1 boundaries,321,25.646247710783285
+var2,2,1000.0,Exactly 2 boundaries,116,86.58099684848315
+var2,2,1000.0,Exactly 3 boundaries,9,181.0402444526361
+var2,3,0.001,Interior,352,3.5391481670107647
+var2,3,0.001,At least one boundary,446,13.037270957269895
+var2,3,0.001,Largest absolute targets,80,26.27211577772219
+var2,3,0.001,Exactly 1 boundaries,321,9.107690825482157
+var2,3,0.001,Exactly 2 boundaries,116,20.717427633470074
+var2,3,0.001,Exactly 3 boundaries,9,54.20360960889697
+var2,3,0.01,Interior,352,3.538874117513134
+var2,3,0.01,At least one boundary,446,13.037469277925254
+var2,3,0.01,Largest absolute targets,80,26.273637526425137
+var2,3,0.01,Exactly 1 boundaries,321,9.107685117356683
+var2,3,0.01,Exactly 2 boundaries,116,20.718024169672038
+var2,3,0.01,Exactly 3 boundaries,9,54.20595240013471
+var2,3,0.1,Interior,352,3.536162189706272
+var2,3,0.1,At least one boundary,446,13.039463244535783
+var2,3,0.1,Largest absolute targets,80,26.288862871871686
+var2,3,0.1,Exactly 1 boundaries,321,9.107639165490964
+var2,3,0.1,Exactly 2 boundaries,116,20.72400014193618
+var2,3,0.1,Exactly 3 boundaries,9,54.22937983064026
+var2,3,1.0,Interior,352,3.5117556515449007
+var2,3,1.0,At least one boundary,446,13.060414951404342
+var2,3,1.0,Largest absolute targets,80,26.44183190170181
+var2,3,1.0,Exactly 1 boundaries,321,9.108231541926894
+var2,3,1.0,Exactly 2 boundaries,116,20.78474530823946
+var2,3,1.0,Exactly 3 boundaries,9,54.463587512447326
+var2,3,10.0,Interior,352,3.439328944459021
+var2,3,10.0,At least one boundary,446,13.328285858217372
+var2,3,10.0,Largest absolute targets,80,27.997140638465662
+var2,3,10.0,Exactly 1 boundaries,321,9.178107071235404
+var2,3,10.0,Exactly 2 boundaries,116,21.44113968609628
+var2,3,10.0,Exactly 3 boundaries,9,56.78565770124602
+var2,3,100.0,Interior,352,4.055897504858074
+var2,3,100.0,At least one boundary,446,16.061211551952756
+var2,3,100.0,Largest absolute targets,80,41.30331523130155
+var2,3,100.0,Exactly 1 boundaries,321,10.348711513172676
+var2,3,100.0,Exactly 2 boundaries,116,27.17179244354375
+var2,3,100.0,Exactly 3 boundaries,9,76.60400366571392
+var2,3,1000.0,Interior,352,4.453536045533042
+var2,3,1000.0,At least one boundary,446,31.90185124037235
+var2,3,1000.0,Largest absolute targets,80,111.54750758988855
+var2,3,1000.0,Exactly 1 boundaries,321,18.50619871214706
+var2,3,1000.0,Exactly 2 boundaries,116,58.99536114946374
+var2,3,1000.0,Exactly 3 boundaries,9,160.47488591878502
+var2,4,0.001,Interior,352,1.5829577238218078
+var2,4,0.001,At least one boundary,446,4.242581644228857
+var2,4,0.001,Largest absolute targets,80,6.59223151184429
+var2,4,0.001,Exactly 1 boundaries,321,3.328981651475637
+var2,4,0.001,Exactly 2 boundaries,116,6.679387155896091
+var2,4,0.001,Exactly 3 boundaries,9,5.419932568716032
+var2,4,0.01,Interior,352,1.582551208907504
+var2,4,0.01,At least one boundary,446,4.242993670694219
+var2,4,0.01,Largest absolute targets,80,6.594286324847859
+var2,4,0.01,Exactly 1 boundaries,321,3.32898817731855
+var2,4,0.01,Exactly 2 boundaries,116,6.680578421622754
+var2,4,0.01,Exactly 3 boundaries,9,5.424763922458651
+var2,4,0.1,Interior,352,1.5785518071641649
+var2,4,0.1,At least one boundary,446,4.2471342533788405
+var2,4,0.1,Largest absolute targets,80,6.614841076770242
+var2,4,0.1,Exactly 1 boundaries,321,3.329083397860761
+var2,4,0.1,Exactly 2 boundaries,116,6.6924936181701336
+var2,4,0.1,Exactly 3 boundaries,9,5.47298295399145
+var2,4,1.0,Interior,352,1.5445846267916457
+var2,4,1.0,At least one boundary,446,4.290349962916843
+var2,4,1.0,Largest absolute targets,80,6.820820992311534
+var2,4,1.0,Exactly 1 boundaries,321,3.3327690461976083
+var2,4,1.0,Exactly 2 boundaries,116,6.811774482348111
+var2,4,1.0,Exactly 3 boundaries,9,5.945708853233204
+var2,4,10.0,Interior,352,1.5127652097894653
+var2,4,10.0,At least one boundary,446,4.7928258931760865
+var2,4,10.0,Largest absolute targets,80,8.81861587708544
+var2,4,10.0,Exactly 1 boundaries,321,3.505711245573966
+var2,4,10.0,Exactly 2 boundaries,116,7.96287686800901
+var2,4,10.0,Exactly 3 boundaries,9,9.84148020424963
+var2,4,100.0,Interior,352,2.7619727477603506
+var2,4,100.0,At least one boundary,446,8.845147596140983
+var2,4,100.0,Largest absolute targets,80,22.145491397660027
+var2,4,100.0,Exactly 1 boundaries,321,5.900704845445588
+var2,4,100.0,Exactly 2 boundaries,116,15.643180594072218
+var2,4,100.0,Exactly 3 boundaries,9,26.244513730940813
+var2,4,1000.0,Interior,352,3.6784233099827404
+var2,4,1000.0,At least one boundary,446,23.664013300540642
+var2,4,1000.0,Largest absolute targets,80,76.99149963745397
+var2,4,1000.0,Exactly 1 boundaries,321,14.79105590987013
+var2,4,1000.0,Exactly 2 boundaries,116,43.59782551617461
+var2,4,1000.0,Exactly 3 boundaries,9,83.20813612184003
+var2,5,0.001,Interior,352,0.6776954654016217
+var2,5,0.001,At least one boundary,446,1.6200704605075464
+var2,5,0.001,Largest absolute targets,80,3.0829533522267383
+var2,5,0.001,Exactly 1 boundaries,321,1.1402724847620083
+var2,5,0.001,Exactly 2 boundaries,116,2.703673064545946
+var2,5,0.001,Exactly 3 boundaries,9,4.76643136560347
+var2,5,0.01,Interior,352,0.6769395610012556
+var2,5,0.01,At least one boundary,446,1.620441470546063
+var2,5,0.01,Largest absolute targets,80,3.0836991176879875
+var2,5,0.01,Exactly 1 boundaries,321,1.1405207089178337
+var2,5,0.01,Exactly 2 boundaries,116,2.7044946539693884
+var2,5,0.01,Exactly 3 boundaries,9,4.765374271163376
+var2,5,0.1,Interior,352,0.669923961248424
+var2,5,0.1,At least one boundary,446,1.6244485495383716
+var2,5,0.1,Largest absolute targets,80,3.0919291938867515
+var2,5,0.1,Exactly 1 boundaries,321,1.1432245472078661
+var2,5,0.1,Exactly 2 boundaries,116,2.712974565549321
+var2,5,0.1,Exactly 3 boundaries,9,4.758213759629709
+var2,5,1.0,Interior,352,0.6273116276262155
+var2,5,1.0,At least one boundary,446,1.6769524194530485
+var2,5,1.0,Largest absolute targets,80,3.211132636138406
+var2,5,1.0,Exactly 1 boundaries,321,1.178547943732961
+var2,5,1.0,Exactly 2 boundaries,116,2.808468875637989
+var2,5,1.0,Exactly 3 boundaries,9,4.8693888404191625
+var2,5,10.0,Interior,352,0.6058791970423563
+var2,5,10.0,At least one boundary,446,2.220712088198391
+var2,5,10.0,Largest absolute targets,80,4.543279171948541
+var2,5,10.0,Exactly 1 boundaries,321,1.5376507500952057
+var2,5,10.0,Exactly 2 boundaries,116,3.7140014702838506
+var2,5,10.0,Exactly 3 boundaries,9,7.336392222554973
+var2,5,100.0,Interior,352,1.4994842451861574
+var2,5,100.0,At least one boundary,446,5.572465259625782
+var2,5,100.0,Largest absolute targets,80,12.121588558761696
+var2,5,100.0,Exactly 1 boundaries,321,3.926754762568867
+var2,5,100.0,Exactly 2 boundaries,116,9.034424788524904
+var2,5,100.0,Exactly 3 boundaries,9,19.648661282178214
+var2,5,1000.0,Interior,352,2.9992702569817267
+var2,5,1000.0,At least one boundary,446,16.86790451711096
+var2,5,1000.0,Largest absolute targets,80,47.3177412967347
+var2,5,1000.0,Exactly 1 boundaries,321,11.255588245643985
+var2,5,1000.0,Exactly 2 boundaries,116,28.281200162744693
+var2,5,1000.0,Exactly 3 boundaries,9,69.93581876682053
+var2,6,1000.0,Interior,352,2.635455285173997
+var2,6,1000.0,At least one boundary,446,12.663418128614493
+var2,6,1000.0,Largest absolute targets,80,32.11882206532903
+var2,6,1000.0,Exactly 1 boundaries,321,9.249602830133052
+var2,6,1000.0,Exactly 2 boundaries,116,20.983140629343318
+var2,6,1000.0,Exactly 3 boundaries,9,27.190851542836633
+var2,7,1000.0,Interior,352,2.1425200715835055
+var2,7,1000.0,At least one boundary,446,9.712339538310541
+var2,7,1000.0,Largest absolute targets,80,21.303259386211373
+var2,7,1000.0,Exactly 1 boundaries,321,7.617623695878707
+var2,7,1000.0,Exactly 2 boundaries,116,14.520729485164495
+var2,7,1000.0,Exactly 3 boundaries,9,22.44906749226161
+var2,8,1000.0,Interior,352,1.9708783852246767
+var2,8,1000.0,At least one boundary,446,7.522411853530886
+var2,8,1000.0,Largest absolute targets,80,14.710043767981125
+var2,8,1000.0,Exactly 1 boundaries,321,6.4417695480973665
+var2,8,1000.0,Exactly 2 boundaries,116,10.596294043530003
+var2,8,1000.0,Exactly 3 boundaries,9,6.446394742893326
+var2,9,1000.0,Interior,352,1.6905776111633621
+var2,9,1000.0,At least one boundary,446,6.169881118046565
+var2,9,1000.0,Largest absolute targets,80,11.180068908034526
+var2,9,1000.0,Exactly 1 boundaries,321,5.516957581641749
+var2,9,1000.0,Exactly 2 boundaries,116,7.923043696768244
+var2,9,1000.0,Exactly 3 boundaries,9,6.86116956851668
+var2,10,1000.0,Interior,352,1.623685550793524
+var2,10,1000.0,At least one boundary,446,5.081161356660112
+var2,10,1000.0,Largest absolute targets,80,8.420261867670787
+var2,10,1000.0,Exactly 1 boundaries,321,4.845900625131801
+var2,10,1000.0,Exactly 2 boundaries,116,5.759680588797124
+var2,10,1000.0,Exactly 3 boundaries,9,4.7267684558483865
+var2,11,0.001,Interior,352,0.37732438412598257
+var2,11,0.001,At least one boundary,446,1.125660812176415
+var2,11,0.001,Largest absolute targets,80,2.076077609788571
+var2,11,0.001,Exactly 1 boundaries,321,0.7395035419927425
+var2,11,0.001,Exactly 2 boundaries,116,2.164322075282415
+var2,11,0.001,Exactly 3 boundaries,9,1.5114138353611721
+var2,11,0.01,Interior,352,0.2826129387950949
+var2,11,0.01,At least one boundary,446,0.5381174443820628
+var2,11,0.01,Largest absolute targets,80,0.8353354003680682
+var2,11,0.01,Exactly 1 boundaries,321,0.40760084959266246
+var2,11,0.01,Exactly 2 boundaries,116,0.8711111433994252
+var2,11,0.01,Exactly 3 boundaries,9,0.901290537869111
+var2,11,0.1,Interior,352,0.24875238468404556
+var2,11,0.1,At least one boundary,446,0.4356613151604309
+var2,11,0.1,Largest absolute targets,80,0.6878670784687818
+var2,11,0.1,Exactly 1 boundaries,321,0.31786674768607254
+var2,11,0.1,Exactly 2 boundaries,116,0.7271339060497524
+var2,11,0.1,Exactly 3 boundaries,9,0.8802430502835139
+var2,11,1.0,Interior,352,0.23577306029944156
+var2,11,1.0,At least one boundary,446,0.33647124738377987
+var2,11,1.0,Largest absolute targets,80,0.5746276557508911
+var2,11,1.0,Exactly 1 boundaries,321,0.26655867691101376
+var2,11,1.0,Exactly 2 boundaries,116,0.4699663177188005
+var2,11,1.0,Exactly 3 boundaries,9,1.1094164654832843
+var2,11,10.0,Interior,352,0.24901026742117943
+var2,11,10.0,At least one boundary,446,0.3534593403271676
+var2,11,10.0,Largest absolute targets,80,0.5640481115930369
+var2,11,10.0,Exactly 1 boundaries,321,0.28237467437056374
+var2,11,10.0,Exactly 2 boundaries,116,0.4631534889772845
+var2,11,10.0,Exactly 3 boundaries,9,1.4749767324000893
+var2,11,100.0,Interior,352,0.5113408308995524
+var2,11,100.0,At least one boundary,446,0.8836070435404799
+var2,11,100.0,Largest absolute targets,80,1.5880528061153452
+var2,11,100.0,Exactly 1 boundaries,321,0.6737795179464567
+var2,11,100.0,Exactly 2 boundaries,116,1.1172856231150752
+var2,11,100.0,Exactly 3 boundaries,9,5.355598208543629
+var2,11,1000.0,Interior,352,1.466893410701637
+var2,11,1000.0,At least one boundary,446,4.392434244671854
+var2,11,1000.0,Largest absolute targets,80,7.32716227188539
+var2,11,1000.0,Exactly 1 boundaries,321,4.22887095201464
+var2,11,1000.0,Exactly 2 boundaries,116,4.61930926875385
+var2,11,1000.0,Exactly 3 boundaries,9,7.302024705722322
+var2,12,0.001,Interior,352,0.4698875883472335
+var2,12,0.001,At least one boundary,446,1.567176156035926
+var2,12,0.001,Largest absolute targets,80,3.332785466295168
+var2,12,0.001,Exactly 1 boundaries,321,0.8445892200674984
+var2,12,0.001,Exactly 2 boundaries,116,2.285778420114558
+var2,12,0.001,Exactly 3 boundaries,9,18.07745880189637
+var2,12,0.01,Interior,352,0.3044401022953125
+var2,12,0.01,At least one boundary,446,0.7037676370864704
+var2,12,0.01,Largest absolute targets,80,1.1335749441035232
+var2,12,0.01,Exactly 1 boundaries,321,0.4685003017980371
+var2,12,0.01,Exactly 2 boundaries,116,1.1790035131549828
+var2,12,0.01,Exactly 3 boundaries,9,2.969706859713106
+var2,12,0.1,Interior,352,0.25107146311661893
+var2,12,0.1,At least one boundary,446,0.5517334001732771
+var2,12,0.1,Largest absolute targets,80,1.2292781527012906
+var2,12,0.1,Exactly 1 boundaries,321,0.3251788305740067
+var2,12,0.1,Exactly 2 boundaries,116,0.814769620426614
+var2,12,0.1,Exactly 3 boundaries,9,5.241935099282025
+var2,12,1.0,Interior,352,0.23492662774139833
+var2,12,1.0,At least one boundary,446,0.4199295455496794
+var2,12,1.0,Largest absolute targets,80,1.0330048999426313
+var2,12,1.0,Exactly 1 boundaries,321,0.267756034070411
+var2,12,1.0,Exactly 2 boundaries,116,0.4933018024248861
+var2,12,1.0,Exactly 3 boundaries,9,4.9017645885853645
+var2,12,10.0,Interior,352,0.250818920866389
+var2,12,10.0,At least one boundary,446,0.41671146921419777
+var2,12,10.0,Largest absolute targets,80,0.9602818734805749
+var2,12,10.0,Exactly 1 boundaries,321,0.2684297886594167
+var2,12,10.0,Exactly 2 boundaries,116,0.44945187171353695
+var2,12,10.0,Exactly 3 boundaries,9,5.283437332343239
+var2,12,100.0,Interior,352,0.5200933569421299
+var2,12,100.0,At least one boundary,446,0.8762250085852116
+var2,12,100.0,Largest absolute targets,80,1.704786497610936
+var2,12,100.0,Exactly 1 boundaries,321,0.6375004248377976
+var2,12,100.0,Exactly 2 boundaries,116,0.9016075869379436
+var2,12,100.0,Exactly 3 boundaries,9,9.063581930141105
+var2,12,1000.0,Interior,352,1.4494333688541519
+var2,12,1000.0,At least one boundary,446,3.8996671048718525
+var2,12,1000.0,Largest absolute targets,80,6.351033678041598
+var2,12,1000.0,Exactly 1 boundaries,321,3.851763158846275
+var2,12,1000.0,Exactly 2 boundaries,116,3.4824258910090515
+var2,12,1000.0,Exactly 3 boundaries,9,10.986016825126883
+var2,13,0.001,Interior,352,0.4921447154600022
+var2,13,0.001,At least one boundary,446,4.759818685853945
+var2,13,0.001,Largest absolute targets,80,15.73467096370543
+var2,13,0.001,Exactly 1 boundaries,321,1.1952271377476327
+var2,13,0.001,Exactly 2 boundaries,116,8.444306430783666
+var2,13,0.001,Exactly 3 boundaries,9,84.40796407810717
+var2,13,0.01,Interior,352,0.3224541637246257
+var2,13,0.01,At least one boundary,446,1.0167159228023461
+var2,13,0.01,Largest absolute targets,80,2.215061478900567
+var2,13,0.01,Exactly 1 boundaries,321,0.6008766511209073
+var2,13,0.01,Exactly 2 boundaries,116,1.9533272585341055
+var2,13,0.01,Exactly 3 boundaries,9,3.7764371744532
+var2,13,0.1,Interior,352,0.25768889006428386
+var2,13,0.1,At least one boundary,446,0.5184893882739682
+var2,13,0.1,Largest absolute targets,80,0.8395044301237451
+var2,13,0.1,Exactly 1 boundaries,321,0.35524750014207757
+var2,13,0.1,Exactly 2 boundaries,116,0.9418483591053561
+var2,13,0.1,Exactly 3 boundaries,9,0.8841566631512903
+var2,13,1.0,Interior,352,0.2381576018165277
+var2,13,1.0,At least one boundary,446,0.386752594855195
+var2,13,1.0,Largest absolute targets,80,0.6960723108389235
+var2,13,1.0,Exactly 1 boundaries,321,0.2812547799107089
+var2,13,1.0,Exactly 2 boundaries,116,0.5800366976442867
+var2,13,1.0,Exactly 3 boundaries,9,1.6582906697046853
+var2,13,10.0,Interior,352,0.25239654922249366
+var2,13,10.0,At least one boundary,446,0.3448611796511081
+var2,13,10.0,Largest absolute targets,80,0.6138849702215657
+var2,13,10.0,Exactly 1 boundaries,321,0.2669933136683764
+var2,13,10.0,Exactly 2 boundaries,116,0.42231735170066864
+var2,13,10.0,Exactly 3 boundaries,9,2.1238244043964225
+var2,13,100.0,Interior,352,0.5103471921116661
+var2,13,100.0,At least one boundary,446,0.7815564441640354
+var2,13,100.0,Largest absolute targets,80,1.461623953428755
+var2,13,100.0,Exactly 1 boundaries,321,0.5908738450506176
+var2,13,100.0,Exactly 2 boundaries,116,0.8573763618056137
+var2,13,100.0,Exactly 3 boundaries,9,6.605334651828923
+var2,13,1000.0,Interior,352,1.361862151553083
+var2,13,1000.0,At least one boundary,446,3.515868636507583
+var2,13,1000.0,Largest absolute targets,80,6.0185136108289345
+var2,13,1000.0,Exactly 1 boundaries,321,3.427753251998927
+var2,13,1000.0,Exactly 2 boundaries,116,2.993725264864218
+var2,13,1000.0,Exactly 3 boundaries,9,13.388498585164132
+var2,14,0.001,Interior,352,0.8658680911804697
+var2,14,0.001,At least one boundary,446,7.330665079274193
+var2,14,0.001,Largest absolute targets,80,27.584995837530595
+var2,14,0.001,Exactly 1 boundaries,321,1.2916470065136028
+var2,14,0.001,Exactly 2 boundaries,116,9.568078740128467
+var2,14,0.001,Exactly 3 boundaries,9,193.88453360116904
+var2,14,0.01,Interior,352,0.3552201992983762
+var2,14,0.01,At least one boundary,446,1.1672796185706409
+var2,14,0.01,Largest absolute targets,80,2.3448391226142684
+var2,14,0.01,Exactly 1 boundaries,321,0.6434497074326666
+var2,14,0.01,Exactly 2 boundaries,116,1.9789288934962554
+var2,14,0.01,Exactly 3 boundaries,9,9.389289127894916
+var2,14,0.1,Interior,352,0.2642698916524071
+var2,14,0.1,At least one boundary,446,0.6268247815927281
+var2,14,0.1,Largest absolute targets,80,1.1253586423835662
+var2,14,0.1,Exactly 1 boundaries,321,0.3713426651954149
+var2,14,0.1,Exactly 2 boundaries,116,1.1401788143886007
+var2,14,0.1,Exactly 3 boundaries,9,3.1224571770612095
+var2,14,1.0,Interior,352,0.23853504750968355
+var2,14,1.0,At least one boundary,446,0.47635848438113204
+var2,14,1.0,Largest absolute targets,80,1.1434111394366675
+var2,14,1.0,Exactly 1 boundaries,321,0.2863301339899655
+var2,14,1.0,Exactly 2 boundaries,116,0.6417805748224394
+var2,14,1.0,Exactly 3 boundaries,9,5.121929371533669
+var2,14,10.0,Interior,352,0.25542528293357236
+var2,14,10.0,At least one boundary,446,0.4491344390001856
+var2,14,10.0,Largest absolute targets,80,1.190518465329019
+var2,14,10.0,Exactly 1 boundaries,321,0.2668086658703872
+var2,14,10.0,Exactly 2 boundaries,116,0.4600825009380818
+var2,14,10.0,Exactly 3 boundaries,9,6.8109786600967785
+var2,14,100.0,Interior,352,0.5234586934742808
+var2,14,100.0,At least one boundary,446,0.8506300037342769
+var2,14,100.0,Largest absolute targets,80,1.8763030955615192
+var2,14,100.0,Exactly 1 boundaries,321,0.5783027439001835
+var2,14,100.0,Exactly 2 boundaries,116,0.7954888673970986
+var2,14,100.0,Exactly 3 boundaries,9,11.274343583940567
+var2,14,1000.0,Interior,352,1.3682692846116167
+var2,14,1000.0,At least one boundary,446,3.338137103273247
+var2,14,1000.0,Largest absolute targets,80,5.883216336048162
+var2,14,1000.0,Exactly 1 boundaries,321,3.218508041542237
+var2,14,1000.0,Exactly 2 boundaries,116,2.4417797309501155
+var2,14,1000.0,Exactly 3 boundaries,9,19.15795754828855
+var2,15,0.001,Interior,352,0.9319498201630991
+var2,15,0.001,At least one boundary,446,12.597967860595181
+var2,15,0.001,Largest absolute targets,80,45.812017305763725
+var2,15,0.001,Exactly 1 boundaries,321,1.8961718837162322
+var2,15,0.001,Exactly 2 boundaries,116,19.779664619950953
+var2,15,0.001,Exactly 3 boundaries,9,301.7312661375811
+var2,15,0.01,Interior,352,0.36324776202048037
+var2,15,0.01,At least one boundary,446,2.7661082137260666
+var2,15,0.01,Largest absolute targets,80,9.349642600594766
+var2,15,0.01,Exactly 1 boundaries,321,0.8806830798243463
+var2,15,0.01,Exactly 2 boundaries,116,4.681813011685336
+var2,15,0.01,Exactly 3 boundaries,9,45.321631704745705
+var2,15,0.1,Interior,352,0.2714625347788281
+var2,15,0.1,At least one boundary,446,0.6943970784531162
+var2,15,0.1,Largest absolute targets,80,1.2824284624432454
+var2,15,0.1,Exactly 1 boundaries,321,0.4272182853914726
+var2,15,0.1,Exactly 2 boundaries,116,1.3735287396586715
+var2,15,0.1,Exactly 3 boundaries,9,1.47052150878014
+var2,15,1.0,Interior,352,0.24269950775352295
+var2,15,1.0,At least one boundary,446,0.4469262253492285
+var2,15,1.0,Largest absolute targets,80,0.7898575194320981
+var2,15,1.0,Exactly 1 boundaries,321,0.3011946725163196
+var2,15,1.0,Exactly 2 boundaries,116,0.7549625080204492
+var2,15,1.0,Exactly 3 boundaries,9,1.6744395219605765
+var2,15,10.0,Interior,352,0.2586515663970143
+var2,15,10.0,At least one boundary,446,0.3694325587306462
+var2,15,10.0,Largest absolute targets,80,0.7542395900887817
+var2,15,10.0,Exactly 1 boundaries,321,0.26871234436159014
+var2,15,10.0,Exactly 2 boundaries,116,0.432362455991208
+var2,15,10.0,Exactly 3 boundaries,9,3.1506904176464063
+var2,15,100.0,Interior,352,0.5248228703169441
+var2,15,100.0,At least one boundary,446,0.7515830813003122
+var2,15,100.0,Largest absolute targets,80,1.4838211342025578
+var2,15,100.0,Exactly 1 boundaries,321,0.5597210982982791
+var2,15,100.0,Exactly 2 boundaries,116,0.758659367858328
+var2,15,100.0,Exactly 3 boundaries,9,7.503455003847287
+var2,15,1000.0,Interior,352,1.3211497360725972
+var2,15,1000.0,At least one boundary,446,3.0941499675084954
+var2,15,1000.0,Largest absolute targets,80,5.720922729747769
+var2,15,1000.0,Exactly 1 boundaries,321,2.9318296826390036
+var2,15,1000.0,Exactly 2 boundaries,116,2.2160669176528063
+var2,15,1000.0,Exactly 3 boundaries,9,20.201088325993723
+var2,16,0.001,Interior,352,1.718014663666913
+var2,16,0.001,At least one boundary,446,14.904481842752752
+var2,16,0.001,Largest absolute targets,80,56.463972239649706
+var2,16,0.001,Exactly 1 boundaries,321,2.2689694011624564
+var2,16,0.001,Exactly 2 boundaries,116,19.992827720401614
+var2,16,0.001,Exactly 3 boundaries,9,399.9879676142213
+var2,16,0.01,Interior,352,0.44122341835330836
+var2,16,0.01,At least one boundary,446,3.3565164581802027
+var2,16,0.01,Largest absolute targets,80,12.091833413206993
+var2,16,0.01,Exactly 1 boundaries,321,0.9083062124042475
+var2,16,0.01,Exactly 2 boundaries,116,4.176850745948375
+var2,16,0.01,Exactly 3 boundaries,9,80.10281773739948
+var2,16,0.1,Interior,352,0.2788468955269133
+var2,16,0.1,At least one boundary,446,0.7867511171368985
+var2,16,0.1,Largest absolute targets,80,1.2615344334664944
+var2,16,0.1,Exactly 1 boundaries,321,0.4441241435718149
+var2,16,0.1,Exactly 2 boundaries,116,1.6301939878878142
+var2,16,0.1,Exactly 3 boundaries,9,2.1360717290575186
+var2,16,1.0,Interior,352,0.24427585111321679
+var2,16,1.0,At least one boundary,446,0.5262833054458413
+var2,16,1.0,Largest absolute targets,80,1.0994615806194905
+var2,16,1.0,Exactly 1 boundaries,321,0.3073894150769209
+var2,16,1.0,Exactly 2 boundaries,116,0.8642961634451425
+var2,16,1.0,Exactly 3 boundaries,9,3.976888558835234
+var2,16,10.0,Interior,352,0.26127753420710137
+var2,16,10.0,At least one boundary,446,0.4836831038887389
+var2,16,10.0,Largest absolute targets,80,1.3807012357139334
+var2,16,10.0,Exactly 1 boundaries,321,0.27425645363359424
+var2,16,10.0,Exactly 2 boundaries,116,0.48153966809504517
+var2,16,10.0,Exactly 3 boundaries,9,7.980860135440949
+var2,16,100.0,Interior,352,0.5376285785698701
+var2,16,100.0,At least one boundary,446,0.8650752266402918
+var2,16,100.0,Largest absolute targets,80,2.1241897707799056
+var2,16,100.0,Exactly 1 boundaries,321,0.5520805868198045
+var2,16,100.0,Exactly 2 boundaries,116,0.7752156117062653
+var2,16,100.0,Exactly 3 boundaries,9,13.18674130605401
+var2,16,1000.0,Interior,352,1.3394661430403603
+var2,16,1000.0,At least one boundary,446,3.087798528520663
+var2,16,1000.0,Largest absolute targets,80,6.015310908828921
+var2,16,1000.0,Exactly 1 boundaries,321,2.820174632618975
+var2,16,1000.0,Exactly 2 boundaries,116,1.9948921719882886
+var2,16,1000.0,Exactly 3 boundaries,9,26.71939941098704
+var2,17,0.001,Interior,352,1.6786891762974954
+var2,17,0.001,At least one boundary,446,14.99222803057814
+var2,17,0.001,Largest absolute targets,80,48.279119089200435
+var2,17,0.001,Exactly 1 boundaries,321,2.9633346332715496
+var2,17,0.001,Exactly 2 boundaries,116,25.912235143589218
+var2,17,0.001,Exactly 3 boundaries,9,303.27600085570367
+var2,17,0.01,Interior,352,0.44073796331527126
+var2,17,0.01,At least one boundary,446,6.680807458428101
+var2,17,0.01,Largest absolute targets,80,26.59117307714694
+var2,17,0.01,Exactly 1 boundaries,321,1.2165318107423448
+var2,17,0.01,Exactly 2 boundaries,116,9.257951506666231
+var2,17,0.01,Exactly 3 boundaries,9,168.3567822708175
+var2,17,0.1,Interior,352,0.2847272397883495
+var2,17,0.1,At least one boundary,446,1.1833862400981539
+var2,17,0.1,Largest absolute targets,80,3.198742308341321
+var2,17,0.1,Exactly 1 boundaries,321,0.5357168453947677
+var2,17,0.1,Exactly 2 boundaries,116,2.160544953934149
+var2,17,0.1,Exactly 3 boundaries,9,11.689104561743882
+var2,17,1.0,Interior,352,0.2483848366027179
+var2,17,1.0,At least one boundary,446,0.5082400086381207
+var2,17,1.0,Largest absolute targets,80,0.8369261069034915
+var2,17,1.0,Exactly 1 boundaries,321,0.32597341359294624
+var2,17,1.0,Exactly 2 boundaries,116,0.9696223043151138
+var2,17,1.0,Exactly 3 boundaries,9,1.0623767543014306
+var2,17,10.0,Interior,352,0.2652579978908569
+var2,17,10.0,At least one boundary,446,0.4070890201546156
+var2,17,10.0,Largest absolute targets,80,0.9218067863017776
+var2,17,10.0,Exactly 1 boundaries,321,0.2780461008748147
+var2,17,10.0,Exactly 2 boundaries,116,0.46414485500731384
+var2,17,10.0,Exactly 3 boundaries,9,4.274233491921626
+var2,17,100.0,Interior,352,0.5423176844355461
+var2,17,100.0,At least one boundary,446,0.7501749396228672
+var2,17,100.0,Largest absolute targets,80,1.5884247526086122
+var2,17,100.0,Exactly 1 boundaries,321,0.5402902683908091
+var2,17,100.0,Exactly 2 boundaries,116,0.7348036273869721
+var2,17,100.0,Exactly 3 boundaries,9,8.434180682384483
+var2,17,1000.0,Interior,352,1.3166530708326158
+var2,17,1000.0,At least one boundary,446,2.903980351115667
+var2,17,1000.0,Largest absolute targets,80,5.828781920779517
+var2,17,1000.0,Exactly 1 boundaries,321,2.629023038873163
+var2,17,1000.0,Exactly 2 boundaries,116,1.8604224182307787
+var2,17,1000.0,Exactly 3 boundaries,9,26.16109340050351
+var2,18,0.001,Interior,352,2.923934158451209
+var2,18,0.001,At least one boundary,446,17.419417180342556
+var2,18,0.001,Largest absolute targets,80,62.26812108232734
+var2,18,0.001,Exactly 1 boundaries,321,3.9396534273542865
+var2,18,0.001,Exactly 2 boundaries,116,24.023152416843804
+var2,18,0.001,Exactly 3 boundaries,9,413.0828479886859
+var2,18,0.01,Interior,352,0.5776421812110254
+var2,18,0.01,At least one boundary,446,7.46328812072285
+var2,18,0.01,Largest absolute targets,80,30.765631990598315
+var2,18,0.01,Exactly 1 boundaries,321,1.2757585224112102
+var2,18,0.01,Exactly 2 boundaries,116,7.8833369028398925
+var2,18,0.01,Exactly 3 boundaries,9,222.73788171321837
+var2,18,0.1,Interior,352,0.29353994061767036
+var2,18,0.1,At least one boundary,446,1.3454952063769008
+var2,18,0.1,Largest absolute targets,80,3.345981874038177
+var2,18,0.1,Exactly 1 boundaries,321,0.5513063271774902
+var2,18,0.1,Exactly 2 boundaries,116,2.460351734837913
+var2,18,0.1,Exactly 3 boundaries,9,15.30230330876952
+var2,18,1.0,Interior,352,0.25072386426916665
+var2,18,1.0,At least one boundary,446,0.5822283411584995
+var2,18,1.0,Largest absolute targets,80,0.9734197783343903
+var2,18,1.0,Exactly 1 boundaries,321,0.33246359670683
+var2,18,1.0,Exactly 2 boundaries,116,1.1559553803384928
+var2,18,1.0,Exactly 3 boundaries,9,2.0958001660592434
+var2,18,10.0,Interior,352,0.2678600640279729
+var2,18,10.0,At least one boundary,446,0.5098395568006311
+var2,18,10.0,Largest absolute targets,80,1.4877115622891022
+var2,18,10.0,Exactly 1 boundaries,321,0.2858017862507918
+var2,18,10.0,Exactly 2 boundaries,116,0.5121446072735691
+var2,18,10.0,Exactly 3 boundaries,9,8.470810500315915
+var2,18,100.0,Interior,352,0.553431780707811
+var2,18,100.0,At least one boundary,446,0.893879511103003
+var2,18,100.0,Largest absolute targets,80,2.393834406408993
+var2,18,100.0,Exactly 1 boundaries,321,0.5350918489618413
+var2,18,100.0,Exactly 2 boundaries,116,0.7931644444356849
+var2,18,100.0,Exactly 3 boundaries,9,14.988744764516532
+var2,18,1000.0,Interior,352,1.3401917265796544
+var2,18,1000.0,At least one boundary,446,2.9947302528680635
+var2,18,1000.0,Largest absolute targets,80,6.377093946508225
+var2,18,1000.0,Exactly 1 boundaries,321,2.572611661360177
+var2,18,1000.0,Exactly 2 boundaries,116,1.8290085494081776
+var2,18,1000.0,Exactly 3 boundaries,9,33.07515086124346
+var2,19,0.001,Interior,352,2.673046467856477
+var2,19,0.001,At least one boundary,446,13.943469244882392
+var2,19,0.001,Largest absolute targets,80,37.26402144509856
+var2,19,0.001,Exactly 1 boundaries,321,4.677496048670592
+var2,19,0.001,Exactly 2 boundaries,116,28.144807049018848
+var2,19,0.001,Exactly 3 boundaries,9,161.39038154534467
+var2,19,0.01,Interior,352,0.551111268626845
+var2,19,0.01,At least one boundary,446,11.137371771571695
+var2,19,0.01,Largest absolute targets,80,44.73350244584354
+var2,19,0.01,Exactly 1 boundaries,321,1.600853560321162
+var2,19,0.01,Exactly 2 boundaries,116,14.584112191759383
+var2,19,0.01,Exactly 3 boundaries,9,306.84853366819937
+var2,19,0.1,Interior,352,0.2992203018153496
+var2,19,0.1,At least one boundary,446,2.4117692414078755
+var2,19,0.1,Largest absolute targets,80,8.955701358753007
+var2,19,0.1,Exactly 1 boundaries,321,0.6722439492841521
+var2,19,0.1,Exactly 2 boundaries,116,3.4272687861006648
+var2,19,0.1,Exactly 3 boundaries,9,51.366177195558045
+var2,19,1.0,Interior,352,0.2544826826186106
+var2,19,1.0,At least one boundary,446,0.5916306499905569
+var2,19,1.0,Largest absolute targets,80,0.9591778617463664
+var2,19,1.0,Exactly 1 boundaries,321,0.3568093218328802
+var2,19,1.0,Exactly 2 boundaries,116,1.2180076790612542
+var2,19,1.0,Exactly 3 boundaries,9,0.8936207573698256
+var2,19,10.0,Interior,352,0.27235215309502153
+var2,19,10.0,At least one boundary,446,0.44571752750544197
+var2,19,10.0,Largest absolute targets,80,1.0620087431056735
+var2,19,10.0,Exactly 1 boundaries,321,0.29205597208615636
+var2,19,10.0,Exactly 2 boundaries,116,0.5113638411151286
+var2,19,10.0,Exactly 3 boundaries,9,5.080204962046227
+var2,19,100.0,Interior,352,0.5590588627367673
+var2,19,100.0,At least one boundary,446,0.767817489303845
+var2,19,100.0,Largest absolute targets,80,1.7513986901543208
+var2,19,100.0,Exactly 1 boundaries,321,0.5247978525095112
+var2,19,100.0,Exactly 2 boundaries,116,0.7560113164566009
+var2,19,100.0,Exactly 3 boundaries,9,9.587686318332894
+var2,19,1000.0,Interior,352,1.3318864074293062
+var2,19,1000.0,At least one boundary,446,2.832815245673246
+var2,19,1000.0,Largest absolute targets,80,6.111275765839422
+var2,19,1000.0,Exactly 1 boundaries,321,2.4438945364218996
+var2,19,1000.0,Exactly 2 boundaries,116,1.7146609251072849
+var2,19,1000.0,Exactly 3 boundaries,9,31.11608734071031
+var2,20,0.001,Interior,352,4.344225193803203
+var2,20,0.001,At least one boundary,446,20.95528667829656
+var2,20,0.001,Largest absolute targets,80,59.56134217557265
+var2,20,0.001,Exactly 1 boundaries,321,6.506281825672334
+var2,20,0.001,Exactly 2 boundaries,116,35.33910735740225
+var2,20,0.001,Exactly 3 boundaries,9,350.91165989119827
+var2,20,0.01,Interior,352,0.7424285613271251
+var2,20,0.01,At least one boundary,446,11.092861146376272
+var2,20,0.01,Largest absolute targets,80,45.2858457108841
+var2,20,0.01,Exactly 1 boundaries,321,1.7163727596393692
+var2,20,0.01,Exactly 2 boundaries,116,11.893425016532913
+var2,20,0.01,Exactly 3 boundaries,9,335.2025681690847
+var2,20,0.1,Interior,352,0.31034279422695704
+var2,20,0.1,At least one boundary,446,2.731725666489673
+var2,20,0.1,Largest absolute targets,80,9.717771217317715
+var2,20,0.1,Exactly 1 boundaries,321,0.6934351970930673
+var2,20,0.1,Exactly 2 boundaries,116,3.7832244977610134
+var2,20,0.1,Exactly 3 boundaries,9,61.878100805249105
+var2,20,1.0,Interior,352,0.25714744078446183
+var2,20,1.0,At least one boundary,446,0.6852963544384232
+var2,20,1.0,Largest absolute targets,80,0.9916061074616314
+var2,20,1.0,Exactly 1 boundaries,321,0.3626873871134151
+var2,20,1.0,Exactly 2 boundaries,116,1.5254144269518293
+var2,20,1.0,Exactly 3 boundaries,9,1.3634943655242542
+var2,20,10.0,Interior,352,0.2752113840475073
+var2,20,10.0,At least one boundary,446,0.5248926087802468
+var2,20,10.0,Largest absolute targets,80,1.4912786442906627
+var2,20,10.0,Exactly 1 boundaries,321,0.3008131663482308
+var2,20,10.0,Exactly 2 boundaries,116,0.5587223707367315
+var2,20,10.0,Exactly 3 boundaries,9,8.081031345860792
+var2,20,100.0,Interior,352,0.5685019996648439
+var2,20,100.0,At least one boundary,446,0.930160284895798
+var2,20,100.0,Largest absolute targets,80,2.655325149990013
+var2,20,100.0,Exactly 1 boundaries,321,0.5223204067486058
+var2,20,100.0,Exactly 2 boundaries,116,0.8362206225360957
+var2,20,100.0,Exactly 3 boundaries,9,16.687227142559603
+var2,20,1000.0,Interior,352,1.3566944489603778
+var2,20,1000.0,At least one boundary,446,2.978656617772845
+var2,20,1000.0,Largest absolute targets,80,6.827336437331008
+var2,20,1000.0,Exactly 1 boundaries,321,2.4159711788532596
+var2,20,1000.0,Exactly 2 boundaries,116,1.7917824724139317
+var2,20,1000.0,Exactly 3 boundaries,9,38.34525959053072
